@@ -1,10 +1,180 @@
 <!DOCTYPE html>
-<html>
-<body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD - Free Bootstrap 3 Theme">
+    <meta name="author" content="Carlos Alvarez - Alvarez.is - blacktie.co">
+    <link rel="shortcut icon" href="ico/favicon.png">
 
-<h1>Data Science Project</h1>
+    <title> CS838 Data Science Project</title>
 
-<p> Site is under construction !</p>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
 
-</body>
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link href="css/animate-custom.css" rel="stylesheet">
+
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  
+  
+  <div id="navbar-main">
+  <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+
+	<div class="navbar-collapse collapse">
+	  <ul class="nav navbar-nav">
+	    <li><a href="#home" class="smoothScroll">Home</a></li>
+	    <li> <a href="#about" class="smoothScroll"> About</a></li>
+	    <li> <a href="#stage1" class="smoothScroll"> Stage I</a></li>
+	    <li> <a href="#stage2" class="smoothScroll"> Stage II</a></li>
+	    <li> <a href="#stage3" class="smoothScroll"> Stage III</a></li>
+	    <li> <a href="#stage4" class="smoothScroll"> Stage IV</a></li>
+	    <li><a href="#stage5" class="smoothScroll"> Stage V </a></li>
+	    <li> <a href="#team" class="smoothScroll"> Team</a></li>
+	  </ul>
+	</div><!--/.nav-collapse -->
+      </div>
+    </div>
+  </div>
+
+  
+  
+  <!-- ==== HEADERWRAP ==== -->
+  <div id="headerwrap" id="home" name="home">
+    <header class="clearfix">
+      <h1>CS 838 Project</h1>
+      <p> Data Science </p>
+    </header>	    
+  </div><!-- /headerwrap -->
+
+  <!-- ==== ABOUT ==== -->
+  <div class="container" id="about" name="about">
+    <div class="row">
+      <h2 class="centered">About Project</h2>
+      <hr>
+      <br>		
+      <div class="col-lg-offset-2 col-lg-8 col-md-6">
+        <p>In this project, we selected two Web sources, crawl to retrieve HTML data, perform data extraction to convert the HTML data into two relational tables.
+	</p>
+	<p>Next, we explored and cleaned the tables, and matched the two tables.</p>
+	<p>Then we use these matches to integrate the two tables into a single unified database.</p>
+	<p>Finally, we perform data analysis on this database.</p>
+      </div><!-- col-lg-6 -->
+				
+      <div class="col-lg-offset-2 col-lg-8 col-md-6">
+	<p>In this project, there are four stages.
+        </p>
+        <p>(1) Crawl and extract to obtain two tables.
+        </p>
+	<p>(2) Implement data exploration, transformation, cleaning, and visualizing.
+	</p>
+      </div><!-- col-lg-6 -->
+    </div><!-- row -->
+  </div><!-- container -->
+		
+		
+  <!-- ==== STAGE I ==== -->
+  <div class="container" id="stage1" name="stage1">
+    <br>
+    <br>
+    <div class="row">
+	<h2 class="centered">Stage I</h2>
+	<hr>
+	<br>
+	<div class="col-lg-offset-2 col-lg-8 col-md-6">
+	  <p> We wrote the web crawlers and parsers to collect data on <a href="https://www.yelp.com">YELP</a>
+	    and <a href="https://www.zomato.com">ZOMATO</a>.
+	  </p>
+	  <p> The data includs roughly 3000 restaurants in four cities: Chicago, New York City, San Fransisco, and Seattle. 
+	      We collect the fundatmental information, such as telephone number, address, zip code;
+	      and also some additional highlights information including delivery services, take out services, 
+	      outdoor seating and Wifi.
+	  </p>
+	</div>
+	<div class="col-lg-offset-2 col-lg-8 col-md-6">
+	  <p> Our csv files from two websites, please click here: </p>
+
+	  <p> Our HTML pages from two websites, please click here: </p>
+
+	</div><!-- col-lg -->
+    </div><!-- row -->
+  </div>
+  		
+
+
+<!-- ==== Team Members ==== -->
+<div class="container" id="team" name="team">
+<br>
+	<div class="row white centered">
+		<h1 class="centered">Contact Us</h1>
+		<hr>
+		<br>
+		<br>
+<div class = "row">
+		<div class="col-md-4">
+			<img class="img img-circle" src="img/team/gautam.png" height="120px" width="120px" alt="">
+			<br>
+			<h4><b>Gautam Singh</b></h4>
+			<br/>
+			<span class="icon icon-envelop"></span><a href="#"> gautamsingh@cs.wisc.edu  </a>
+
+		</div><!-- col-lg-3 -->
+			<div class="col-md-4">
+			<img class="img img-circle" src="img/team/harsh.jpg" height="120px" width="120px" alt="">
+			<br>
+			<h4><b>Harsh Singhal</b></h4>
+			<br/>
+			<span class="icon icon-envelop"></span><a href="#"> hsinghal@cs.wisc.edu </a>
+
+		</div><!-- col-lg-3 -->
+		<div class="col-md-4">
+			<img class="img img-circle" src="img/team/naman.jpg" height="120px" width="120px" alt="">
+			<br>
+			<h4><b>Naman Agrawal</b></h4>
+			<br/>
+			<span class="icon icon-envelop"></span><a href="#"> namanagr@cs.wisc.edu  </a>
+
+		</div><!-- col-lg-3 -->
+</div>
+
+	</div><!-- row -->
+</div><!-- container -->
+
+
+<div id="footerwrap">
+	<div class="container">
+		<h4>Created by Gautam Singh</a> - Copyright 2017</h4>
+	</div>
+</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+		
+
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/retina.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/smoothscroll.js"></script>
+	<script type="text/javascript" src="js/jquery-func.js"></script>
+  </body>
 </html>
