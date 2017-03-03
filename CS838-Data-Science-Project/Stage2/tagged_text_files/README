@@ -1,0 +1,4 @@
+We have marked up name of food items and beverages in restaurant review text documents. 
+
+(1)Name of food items have been tagged within <p> and </p> tags
+(2) Negative examples have been tagged within <n> and </n> tags
