@@ -4,9 +4,7 @@ permalink: /contacts/
 ---
 
 
-Contact me via  gautamsingh@cs.wisc.edu
-
-Connect
+Contact me :   gautamsingh@cs.wisc.edu
 ====================
 ![](/images/connect.jpg) 
 
