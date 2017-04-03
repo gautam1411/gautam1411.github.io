@@ -1,0 +1,331 @@
+,key_id,_id,ltable_id,rtable_id,ltable_Name,ltable_Phone,ltable_Zipcode,ltable_State,ltable_City,ltable_Address,ltable_Delivery,ltable_Takeout,ltable_Outdoor_seating,rtable_Name,rtable_Phone,rtable_Zipcode,rtable_State,rtable_City,rtable_Address,rtable_Delivery,rtable_Takeout,rtable_Outdoor_seating,Label
+91,92,39224,337,167,The Art of Pizza,(773) 327-5600,60657,IL,Chicago,3033 N Ashland Ave,1,1,0,Art of Pizza,(773) 327-5600,60657,IL,Chicago,3033 North Ashland Avenue,1,1,0,1
+881,882,167287,1238,768,Morimoto,(212) 989-8883,10011,NY,New York,88 10th Ave,0,0,0,Morimoto,(212) 989-8883,10011,NY,New York,88 10th Avenue,1,1,0,1
+1049,1050,658226,663,3262,Morgan Street Cafe,(312) 850-0234,60607,IL,Chicago,111 S Morgan St,1,1,1,Green Street Smoked Meats,(312) 754-0434,60607,IL,Chicago,112 N Green Street,0,1,0,0
+218,219,415889,3043,2073,Stanza Coffee,(415) 553-8966,94103,CA,San Francisco,3126 16th St,0,1,1,Chieftain Irish Restaurant & Pub,(415) 615-0916,94103,CA,San Francisco,198 5th Street,0,0,0,0
+277,278,5427,464,21,Bandera Restaurant,(312) 644-3524,60611,IL,Chicago,535 N Michigan Ave,0,1,0,Grand Lux Cafe,(312) 276-2500,60611,IL,Chicago,600 N Michigan Avenue,0,1,0,0
+972,973,64866,700,273,North Pond,(773) 477-5845,60614,IL,Chicago,2610 N Cannon Dr,0,0,0,North Pond,(773) 477-5845,60614,IL,Chicago,2610 N. Cannon Drive,0,1,0,1
+344,345,403697,2779,2002,Universal Cafe,(415) 821-4608,94110,CA,San Francisco,2814 19th St,0,1,1,Wise Sons,(415) 787-3354,94110,CA,San Francisco,3150 24th Street,0,1,0,0
+481,482,93995,356,408,Chicago Pizza And Oven Grinder Company,(773) 248-2570,60614,IL,Chicago,2121 N Clark St,0,1,0,Aloha Eats,(773) 935-6828,60614,IL,Chicago,2534 N. Clark Street,1,1,0,0
+647,648,3679,285,14,Pasta Palazzo,(773) 248-1400,60614,IL,Chicago,1966 N Halsted St,0,1,0,Chicago Pizza & Oven Grinder Company,(773) 248-2570,60614,IL,Chicago,2121 N Clark Street,0,1,0,0
+1032,1033,118512,160,523,Rootstock Wine & Beer Bar,(773) 292-1616,60622,IL,Chicago,954 N California Ave,0,0,1,Black Dog Gelato,(773) 235-3116,60622,IL,Chicago,859 N. Damen Avenue,0,1,1,0
+343,344,190337,1301,883,Blue Ribbon Sushi,(212) 343-0404,10012,NY,New York,119 Sullivan St,0,1,0,Blue Ribbon Sushi,(212) 343-0404,10012,NY,New York,119 Sullivan Street,0,1,0,1
+283,284,175629,1302,803,Clinton Street Baking Company,(646) 602-6263,10002,NY,New York,4 Clinton St,1,1,0,Stanton Social,(212) 995-0099,10002,NY,New York,99 Stanton Street,0,0,0,0
+934,935,353211,2945,1684,The Lodge on Haight,(415) 872-9502,94117,CA,San Francisco,400 Haight Street,0,1,0,Rosamunde Sausage Grill,(415) 437-6851,94117,CA,San Francisco,545 Haight Street,0,0,0,0
+37,38,195013,948,901,McSorley’s Old Ale House,(212) 473-9148,10003,NY,New York,15 E 7th St,0,0,0,Motorino,(212) 777-2644,10003,NY,New York,349 E 12th Street,1,1,0,0
+987,988,287254,1055,1291,ABC Kitchen,(212) 475-5829,10003,NY,New York,35 E 18th St,0,0,0,Degustation,(212) 979-1012,10003,NY,New York,239 E 5th Street,0,0,0,0
+82,83,97292,31,418,The Wormhole Coffee,(773) 661-2468,60622,IL,Chicago,1462 N Milwaukee Ave,0,1,1,The Silver Palm,(312) 666-9322,60622,IL,Chicago,768 N. Milwaukee Avenue,0,1,0,0
+511,512,188430,1469,869,Strip House,(212) 328-0000,10003,NY,New York,13 E 12th St,0,0,0,McSorley's Old Ale House,(212) 473-9148,10003,NY,New York,15 E 7th Street,0,0,0,0
+976,977,283146,1585,1272,La Grenouille,(212) 752-1495,10022,NY,New York,3 E 52nd St,0,0,0,La Grenouille,(212) 752-1495,10022,NY,New York,3 E 52nd Street,0,1,0,1
+512,513,188360,948,869,McSorley’s Old Ale House,(212) 473-9148,10003,NY,New York,15 E 7th St,0,0,0,McSorley's Old Ale House,(212) 473-9148,10003,NY,New York,15 E 7th Street,0,0,0,1
+811,812,382840,2801,1874,Manora’s Thai Cuisine,(415) 861-6224,94103,CA,San Francisco,1600 Folsom St,1,1,0,Basil Thai Restaurant & Bar,(415) 552-8999,94103,CA,San Francisco,1175 Folsom Street,0,1,0,0
+361,362,150791,209,690,Doc B’s Fresh Kitchen,(312) 626-1300,60611,IL,Chicago,100 E Walton St,1,1,1,Hendrickx Belgian Bread Crafter,(312) 649-6717,60611,IL,Chicago,1100 E Walton Street Walton Colonnade,0,1,1,0
+165,166,338199,2832,1556,Mission Pie,(415) 282-1500,94110,CA,San Francisco,2901 Mission St,0,1,0,Dynamo Donuts & Coffee,(415) 920-1978,94110,CA,San Francisco,2760 24th Street,0,1,0,0
+574,575,258477,1315,1162,Samba Kitchen & Bar,(212) 256-0170,10036,NY,New York,661 9th Ave,0,1,0,Bali Nusa Indah,(212) 265-2200,10036,NY,New York,651 9th Avenue,1,1,0,0
+358,359,53067,410,220,Bite Café,(773) 395-2483,60622,IL,Chicago,1035 N Western Ave,0,1,0,Bite Cafe,(773) 395-2483,60622,IL,Chicago,1039 N Western Avenue,0,1,0,1
+535,536,28955,418,125,Roy’s - Chicago,(312) 787-7599,60654,IL,Chicago,720 N State St,0,0,1,Chicago Cut Steakhouse,(312) 329-1800,60654,IL,Chicago,300 N LaSalle Street,0,1,0,0
+152,153,262818,1020,1173,B Side Pizza & Wine Bar,(646) 679-7225,10019,NY,New York,370 W 51st St,0,1,0,China Grill,(212) 333-7788,10019,NY,New York,60 West 53rd Street,0,1,1,0
+324,325,295668,1585,1335,La Grenouille,(212) 752-1495,10022,NY,New York,3 E 52nd St,0,0,0,Papillon Bistro & Bar,(212) 754-9006,10022,NY,New York,22 E 54th Street,0,1,1,0
+945,946,2326,29,10,Girl & the Goat,(312) 492-6262,60607,IL,Chicago,809 W Randolph St,0,0,1,Little Goat Diner,(312) 888-3455,60607,IL,Chicago,820 W Randolph Street,0,1,1,0
+234,235,380762,2931,1857,Pork Store Cafe,(415) 864-6981,94117,CA,San Francisco,1451 Haight St,0,1,0,Escape From New York Pizza,(415) 668-5577,94117,CA,San Francisco,1737 Haight Street,1,1,0,0
+4,5,414536,2764,2063,El Techo,(415) 550-6970,94110,CA,San Francisco,2518 Mission St,0,1,1,El Techo de Lolinda,(415) 550-6970,94110,CA,San Francisco,2518 Mission District Street,0,0,1,1
+490,491,388802,2491,1918,El Farolito,(415) 824-7877,94110,CA,San Francisco,2779 Mission St,0,1,0,El Farolito,(415) 824-7877,94110,CA,San Francisco,2779 Mission District Street,0,1,0,1
+715,716,107199,751,454,Kiki’s Bistro,(312) 335-5454,60610,IL,Chicago,900 N Franklin St,0,1,1,Mr. Beef,(312) 337-8500,60610,IL,Chicago,666 N. Orleans Street,0,1,0,0
+409,410,1732,254,9,Kuma’s Corner,(773) 604-8769,60618,IL,Chicago,2900 W Belmont Ave,0,1,1,Kuma's Corner,(773) 604-8769,60618,IL,Chicago,2900 W Belmont Avenue,0,1,1,1
+67,68,109006,201,468,Toro Sushi,(773) 348-7255,60614,IL,Chicago,2546 N Clark St,0,1,0,Riccardo Trattoria,(773) 549-0038,60614,IL,Chicago,2119 N. Clark Street,0,1,0,0
+162,163,338187,2779,1556,Universal Cafe,(415) 821-4608,94110,CA,San Francisco,2814 19th St,0,1,1,Dynamo Donuts & Coffee,(415) 920-1978,94110,CA,San Francisco,2760 24th Street,0,1,0,0
+788,789,69994,31,301,The Wormhole Coffee,(773) 661-2468,60622,IL,Chicago,1462 N Milwaukee Ave,0,1,1,Native Foods Café,(773) 489-8480,60622,IL,Chicago,1484 N Milwaukee Avenue,1,1,1,0
+595,596,650030,625,3231,Francesca’s on Taylor,(312) 829-2828,60607,IL,Chicago,1400 W Taylor St,0,1,0,Al's Italian Beef,(312) 226-4017,60607,IL,Chicago,1079 W Taylor Street,0,1,1,0
+632,633,455228,2770,2358,Amélie,(415) 292-6916,94109,CA,San Francisco,1754 Polk St,0,0,0,Amelie,(415) 292-6916,94109,CA,San Francisco,1754 Polk Street,0,0,0,1
+286,287,439371,3061,2243,Eureka Restaurant & Lounge,(415) 431-6000,94114,CA,San Francisco,4063 18th St,0,1,0,Zapata,(415) 861-4470,94114,CA,San Francisco,4150 18th Street,0,1,0,0
+957,958,97750,427,419,Ground Control,(773) 772-9446,60647,IL,Chicago,3315 W Armitage Ave,1,1,1,El Cid,(773) 395-0505,60647,IL,Chicago,2645 N Kedzie Avenue,0,1,1,0
+541,542,132096,603,586,Nico Osteria,(312) 994-7100,60611,IL,Chicago,1015 N Rush St,0,0,1,Nico Osteria - Thomson Hotels Chicago,(312) 994-7100,60611,IL,Chicago,1015 N. Rush Street,0,0,1,1
+592,593,354122,3047,1690,Atlas Cafe,(415) 648-1047,94110,CA,San Francisco,3049 20th St,0,1,1,Papalote,(415) 970-8815,94110,CA,San Francisco,3409 24th Street,0,1,0,0
+509,510,200910,1248,924,Malatesta Trattoria,(212) 741-1207,10014,NY,New York,649 Washington St,0,1,1,Santina,(212) 254-3000,10014,NY,New York,820 Washington Street,0,0,0,0
+979,980,383699,2847,1886,Sons & Daughters,(415) 391-8311,94108,CA,San Francisco,708 Bush St,0,0,0,Sons & Daughters,(415) 391-8311,94108,CA,San Francisco,708 Bush Street,0,0,0,1
+827,828,202713,1500,935,Benito One,(212) 226-9171,10013,NY,New York,174 Mulberry St,0,1,1,Grotta Azzurra Ristorante,(212) 925-8775,10013,NY,New York,177 Mulberry Street,1,1,1,0
+58,59,17042,477,74,Enso Sushi &  Bar,(773) 878-8998,60647,IL,Chicago,1613 N Damen Ave,1,1,0,Sultan's Market,(773) 235-3072,60647,IL,Chicago,2057 W North Avenue,1,1,0,0
+545,546,158829,1276,729,Westville - West,(212) 741-7971,10014,NY,New York,210 W 10th St,1,1,0,Spice Market,(212) 675-2322,10014,NY,New York,403 W 13th Street,1,1,1,0
+601,602,677302,1624,3330,The Crumpet Shop,(206) 682-1598,98101,WA,Seattle,1503 1st Ave,0,1,1,The Crumpet Shop,(206) 682-1598,98101,WA,Seattle,1503 1st Avenue Pike Place Market,0,1,1,1
+818,819,29313,467,126,Mon Ami Gabi,(773) 348-8886,60614,IL,Chicago,2300 N Lincoln Park W,1,1,1,Mon Ami Gabi,(773) 348-8886,60614,IL,Chicago,2300 N. Lincoln Park West,0,1,1,1
+180,181,64974,526,274,Bacino’s of Lincoln Park,(773) 472-7400,60614,IL,Chicago,2204 N Lincoln Ave,1,1,0,Perennial Virant - Hotel Lincoln,(312) 981-7070,60614,IL,Chicago,1800 N Lincoln Avenue,0,0,1,0
+1014,1015,162032,1227,745,Keens Steakhouse,(212) 947-3636,10018,NY,New York,72 W 36th St,0,1,0,Keens Steakhouse,(212) 947-3636,10018,NY,New York,72 W 36th Street,0,1,0,1
+970,971,186454,1562,863,Bleecker Street Pizza,(212) 924-4466,10014,NY,New York,69 7th Ave S,1,1,1,Bar Pitti,(212) 982-3300,10014,NY,New York,268 6th Avenue,0,0,1,0
+117,118,49176,731,207,Bow Truss Coffee Roasters River North,(312) 222-1306,60654,IL,Chicago,406 N Wells St,0,1,0,Siena Tavern,(312) 595-1322,60654,IL,Chicago,51 West Kinzie Street,0,1,1,0
+697,698,147290,748,673,Alliance Bakery & Cafe,(773) 278-0366,60622,IL,Chicago,1736 W Division St,0,1,1,Bangers & Lace,(773) 252-6499,60622,IL,Chicago,1670 W. Division Street,0,0,1,0
+188,189,183547,1600,846,Da Andrea,(212) 367-1979,10011,NY,New York,35 W 13th St,1,1,1,Alta,(212) 505-7777,10011,NY,New York,64 W 10th Street,0,0,0,0
+445,446,359330,2941,1724,Sing Sing Sandwich Shop,(415) 885-5159,94109,CA,San Francisco,309 Hyde St,0,1,0,Seven Hills,(415) 775-1550,94109,CA,San Francisco,1550 Hyde Street,0,0,0,0
+141,142,120314,794,529,Fat Rice,(773) 661-9170,60647,IL,Chicago,2957 W Diversey Ave,0,0,1,Fat Rice,(773) 661-9170,60647,IL,Chicago,2957 W Diversey Avenue,0,1,0,1
+388,389,274628,1051,1231,Gotan,(212) 431-5200,10013,NY,New York,130 Franklin St,0,1,1,Da Gennaro,(212) 431-3934,10013,NY,New York,129 Mulberry Street,0,1,1,0
+11,12,46256,562,194,Blue Door Farm Stand,(312) 265-0259,60614,IL,Chicago,2010 N Halsted St,0,1,0,Summer House Santa Monica,(773) 634-4100,60614,IL,Chicago,1954 N Halsted Street,0,1,1,0
+38,39,38622,763,162,Max’s Take Out,(312) 553-0170,60603,IL,Chicago,20 E Adams St,1,1,0,Elephant & Castle - Central Loop Hotel,(312) 236-6656,60603,IL,Chicago,111 W Adams Street Central Loop Hotel,0,1,1,0
+345,346,403610,2460,2002,Tartine Bakery & Cafe,(415) 487-2600,94110,CA,San Francisco,600 Guerrero St,0,1,1,Wise Sons,(415) 787-3354,94110,CA,San Francisco,3150 24th Street,0,1,0,0
+926,927,349327,2866,1654,Maven,(415) 829-7982,94117,CA,San Francisco,598 Haight St,0,1,0,Memphis Minnie's,(415) 864-7675,94117,CA,San Francisco,576 Haight Street,1,1,0,0
+974,975,325352,1072,1462,Brooklyn Bagel & Coffee Company,(212) 924-2824,10001,NY,New York,286 8th Ave,1,1,0,Brooklyn Bagel & Coffee Company,(212) 924-2824,10001,NY,New York,286 8th Avenue,1,1,0,1
+129,130,388404,3001,1916,Stella Pastry & Cafe,(415) 986-2914,94133,CA,San Francisco,446 Columbus Ave,0,1,0,Stella Pastry & Cafe,(415) 986-2914,94133,CA,San Francisco,446 Columbus Avenue,0,0,0,1
+1083,1084,443445,2907,2269,Cafe Golo,(415) 673-4656,94123,CA,San Francisco,1602 Lombard St,0,1,0,Benjarong Thai Cuisine,(415) 441-8999,94123,CA,San Francisco,1968 Lombard Street,1,1,0,0
+59,60,281694,942,1261,Aquagrill,(212) 274-0505,10012,NY,New York,210 Spring Street,0,1,1,Chef's Club By Food and Wine,(212) 941-1100,10012,NY,New York,275 Mulberry Street,0,0,0,0
+887,888,423867,3001,2131,Stella Pastry & Cafe,(415) 986-2914,94133,CA,San Francisco,446 Columbus Ave,0,1,0,Mara's Italian Pastry,(415) 397-9435,94133,CA,San Francisco,503 Columbus Avenue,0,1,0,0
+659,660,193875,1338,897,Ahimsa,(212) 533-7290,10012,NY,New York,"210 Thompson St, Manhattan",1,1,0,Aquagrill,(212) 274-0505,10012,NY,New York,210 Spring Street,0,1,1,0
+1004,1005,703434,1975,3440,Mike’s Noodle House,(206) 389-7099,98104,WA,Seattle,418 Maynard Ave S,0,1,0,Mike's Noodle House,(206) 389-7099,98104,WA,Seattle,418 Maynard Avenue S,0,1,0,1
+993,994,699221,2360,3416,Etta’s,(206) 443-6000,98121,WA,Seattle,2020 Western Ave,0,1,1,Cutter's Crabhouse,(206) 448-4884,98121,WA,Seattle,2001 Western Avenue,0,1,0,0
+432,433,682722,2176,3346,Sushi Samurai,(206) 766-0298,98109,WA,Seattle,1817 Queen Anne Ave N,0,1,1,Serious Pie,(206) 436-0050,98109,WA,Seattle,401 Westlake Avenue N,0,1,0,0
+623,624,162239,838,747,Juliana’s Pizza,(718) 596-6700,11201,NY,Brooklyn,19 Old Fulton St,0,1,1,Grimaldi's Pizzeria,(718) 858-4300,11201,NY,Brooklyn,1 Front Street,0,1,0,0
+799,800,77194,427,336,Ground Control,(773) 772-9446,60647,IL,Chicago,3315 W Armitage Ave,1,1,1,Parson's Chicken & Fish,(773) 384-3333,60647,IL,Chicago,2952 W. Armitage Avenue,0,1,1,0
+310,311,694161,1705,3394,Café Besalu,(206) 789-1463,98107,WA,Seattle,5909 24th Ave NW,0,1,1,Monkey Bridge,(206) 297-6048,98107,WA,Seattle,1723 NW Market Street,0,1,0,0
+769,770,446746,2935,2290,Basil Thai Restaurant & Bar,(415) 552-8999,94103,CA,San Francisco,1175 Folsom St,0,1,0,Citizen's Band,(415) 556-4901,94103,CA,San Francisco,1198 Folsom Street,0,1,0,0
+1094,1095,180736,1040,830,The Little Owl,(212) 741-4695,10014,NY,New York,90 Bedford St,0,0,0,The Little Owl,(212) 741-4695,10014,NY,New York,90 Bedford Street,0,1,0,1
+469,470,437266,2631,2230,Craftsman and Wolves,(415) 913-7713,94110,CA,San Francisco,746 Valencia St,0,1,1,Anthony's Cookies,(415) 655-9834,94110,CA,San Francisco,1417 Valencia Street,0,1,0,0
+958,959,97885,733,419,El Rinconcito Cubano,(773) 489-4440,60647,IL,Chicago,3238 W Fullerton Ave,0,1,0,El Cid,(773) 395-0505,60647,IL,Chicago,2645 N Kedzie Avenue,0,1,1,0
+446,447,683138,2176,3348,Sushi Samurai,(206) 766-0298,98109,WA,Seattle,1817 Queen Anne Ave N,0,1,1,Roti,(206) 216-7684,98109,WA,Seattle,530 Queen Anne Avenue North,1,1,0,0
+75,76,148430,720,677,Geja’s Cafe,(773) 281-9101,60614,IL,Chicago,340 W Armitage Ave,1,1,0,Uncle Sammy's,(773) 525-4800,60614,IL,Chicago,1231 W. Fullerton Avenue,1,1,0,0
+427,428,429832,2488,2171,The Boy’s Deli,(415) 776-3099,94109,CA,San Francisco,2222 Polk St,0,1,0,Aicha Moroccan Cuisine,(415) 345-9947,94109,CA,San Francisco,1303 Polk Street,0,1,0,0
+386,387,658318,710,3263,Blaze Fast-Fire’d Pizza,(312) 255-1290,60611,IL,Chicago,227 E Ontario St,0,1,1,Niu Japanese Fusion Lounge,(312) 527-2888,60611,IL,Chicago,332 E Illinois Street,1,1,1,0
+922,923,651999,721,3236,Friends Sushi,(312) 787-8998,60611,IL,Chicago,710 N Rush St,1,1,1,Benny's Chop House,(312) 626-2444,60611,IL,Chicago,444 N. Wabash Avenue,0,1,0,0
+670,671,139152,765,623,Original Pancake House,(312) 642-7917,60611,IL,Chicago,22 E Bellevue Pl,0,1,1,Pelago Ristorante,(312) 280-0700,60611,IL,Chicago,201 E Delaware Plaza,0,1,1,0
+600,601,677297,1610,3330,Storyville Coffee Company,(206) 780-5777,98101,WA,Seattle,94 Pike St,0,1,0,The Crumpet Shop,(206) 682-1598,98101,WA,Seattle,1503 1st Avenue Pike Place Market,0,1,1,0
+575,576,105347,62,448,Yuzu Sushi & Robata Grill,(312) 666-4100,60622,IL,Chicago,1751 W Chicago Ave,1,1,0,Roots Handmade Pizza,(773) 645-4949,60622,IL,Chicago,1924 W. Chicago Avenue,1,1,1,0
+5,6,414570,3048,2063,La Santaneca,(415) 648-1034,94110,CA,San Francisco,3781 Mission St,0,1,0,El Techo de Lolinda,(415) 550-6970,94110,CA,San Francisco,2518 Mission District Street,0,0,1,0
+846,847,193360,942,893,Aquagrill,(212) 274-0505,10012,NY,New York,210 Spring Street,0,1,1,Il Buco Alimentari e Vineria,(212) 837-2622,10012,NY,New York,53 Great Jones Street,1,1,1,0
+32,33,387469,3005,1908,Commonwealth,(415) 355-1500,94110,CA,San Francisco,2224 Mission St,0,0,0,Cha Cha Cha,(415) 824-1502,94110,CA,San Francisco,2327 Mission District Street,0,1,0,0
+989,990,287277,1186,1291,Cha-An,(212) 228-8030,10003,NY,New York,230 E 9th St,0,1,0,Degustation,(212) 979-1012,10003,NY,New York,239 E 5th Street,0,0,0,0
+813,814,382861,3016,1874,Poké Bar,(415) 767-5130,94103,CA,San Francisco,1355 Market St,0,1,0,Basil Thai Restaurant & Bar,(415) 552-8999,94103,CA,San Francisco,1175 Folsom Street,0,1,0,0
+888,889,423848,2582,2131,Italian Homemade Company,(415) 712-8874,94133,CA,San Francisco,716 Columbus Ave,0,1,1,Mara's Italian Pastry,(415) 397-9435,94133,CA,San Francisco,503 Columbus Avenue,0,1,0,0
+353,354,452953,3055,2334,Velvet Cantina,(415) 648-4142,94110,CA,San Francisco,3349 23rd St,0,1,0,Balompie Cafe,(415) 648-9199,94110,CA,San Francisco,3349 18th Street,0,1,0,0
+617,618,58625,82,242,Sapori Trattoria,(312) 967-9358,60614,IL,Chicago,2701 N Halsted St,0,1,1,Sapori Trattoria,(773) 832-9999,60614,IL,Chicago,2701 N Halsted Street,0,1,1,1
+792,793,390252,2659,1925,Taqueria Cancún,(415) 252-9560,94110,CA,San Francisco,2288 Mission St,0,1,0,Taqueria Cancun,(415) 252-9560,94110,CA,San Francisco,2288 Mission District Street,0,1,0,1
+1068,1069,439004,2738,2242,Plow,(415) 821-7569,94107,CA,San Francisco,1299 18th St,0,1,1,Pera,(415) 796-3812,94107,CA,San Francisco,1457 18th Street,0,1,1,0
+672,673,237277,1464,1082,Auntie Guan’s Kitchen 108,(212) 206-8388,10011,NY,New York,108 W 14th St,1,1,0,Le Grainne Cafe,(646) 486-3000,10011,NY,New York,183 9th Avenue,0,0,1,0
+9,10,46198,285,194,Pasta Palazzo,(773) 248-1400,60614,IL,Chicago,1966 N Halsted St,0,1,0,Summer House Santa Monica,(773) 634-4100,60614,IL,Chicago,1954 N Halsted Street,0,1,1,0
+381,382,193465,1450,894,Il Corallo Trattoria,(212) 941-7119,10012,NY,New York,176 Prince St,1,1,0,Boqueria,(212) 343-4255,10012,NY,New York,171 Spring Street,0,1,0,0
+414,415,435408,2945,2207,The Lodge on Haight,(415) 872-9502,94117,CA,San Francisco,400 Haight Street,0,1,0,The Mill,(415) 252-0800,94117,CA,San Francisco,736 Divisadero Street,0,1,1,0
+667,668,26660,464,116,Bandera Restaurant,(312) 644-3524,60611,IL,Chicago,535 N Michigan Ave,0,1,0,Wow Bao,(312) 642-5888,60611,IL,Chicago,835 N Michigan Avenue Level G,0,1,0,0
+1046,1047,87946,173,383,Tanta,(312) 222-9700,60654,IL,Chicago,118 W Grand Ave,0,0,1,Tanta,(312) 222-9700,60654,IL,Chicago,118 West Grand Avenue,0,0,0,1
+731,732,353627,2981,1688,Blue Front Cafe,(415) 252-5917,94117,CA,San Francisco,1430 Haight St,0,1,0,Pork Store Cafe,(415) 864-6981,94117,CA,San Francisco,1451 Haight Street,0,1,0,0
+245,246,420376,2488,2105,The Boy’s Deli,(415) 776-3099,94109,CA,San Francisco,2222 Polk St,0,1,0,Thai Spice,(415) 775-4777,94109,CA,San Francisco,1730 Polk Street,0,0,0,0
+265,266,658747,658,3265,Osteria Via Stato,(312) 642-8450,60654,IL,Chicago,620 N State St,1,1,1,Havana,(312) 644-1900,60654,IL,Chicago,412 N Clark Street,0,1,0,0
+938,939,233033,1158,1064,Cafe Habana,(212) 625-2001,10012,NY,New York,17 Prince St,1,1,0,Eileen's Special Cheesecake,(212) 966-5585,10012,NY,New York,17 Cleveland Place,1,1,0,0
+855,856,43104,524,177,Ugo’s Kitchen &  Bar,(773) 698-8984,60647,IL,Chicago,2833 W Armitage Ave,0,1,0,Handlebar,(773) 384-9546,60647,IL,Chicago,2311 W North Avenue,0,1,1,0
+1041,1042,444099,2997,2272,Skool,(415) 255-8800,94103,CA,San Francisco,1725 Alameda St,0,1,1,Sushi Zone,(415) 621-1114,94103,CA,San Francisco,1815 Market Street,0,0,0,0
+1016,1017,2558,535,11,Bongiorno’s Italian Deli & Pizzeria,(312) 755-1255,60611,IL,Chicago,405 N Wabash Ave,1,1,1,Bandera,(312) 644-3524,60611,IL,Chicago,535 N Michigan Avenue,0,1,0,0
+177,178,149000,731,678,Bow Truss Coffee Roasters River North,(312) 222-1306,60654,IL,Chicago,406 N Wells St,0,1,0,Green Door Tavern,(312) 664-5496,60654,IL,Chicago,678 N Orleans Street,0,1,0,0
+645,646,353050,2897,1682,Angel Cafe & Deli,(415) 931-3467,94109,CA,San Francisco,700 Geary St,0,1,1,Pearl's Deluxe Burgers,(415) 409-6120,94109,CA,San Francisco,708 Post Street,0,1,0,0
+354,355,259175,838,1164,Juliana’s Pizza,(718) 596-6700,11201,NY,Brooklyn,19 Old Fulton St,0,1,1,Juliana's Pizza,(718) 596-6700,11201,NY,Brooklyn,19 Old Fulton Street,0,1,0,1
+70,71,109108,772,468,Riccardo Trattoria,(773) 549-0038,60614,IL,Chicago,2119 N Clark St,0,1,0,Riccardo Trattoria,(773) 549-0038,60614,IL,Chicago,2119 N. Clark Street,0,1,0,1
+309,310,694034,2358,3394,Pie Bar Ballard,(206) 535-8489,98107,WA,Seattle,2218 NW Market St,0,1,0,Monkey Bridge,(206) 297-6048,98107,WA,Seattle,1723 NW Market Street,0,1,0,0
+342,343,317504,912,1423,Atera,(212) 226-1444,10013,NY,New York,77 Worth St,0,0,0,Atera,(212) 226-1444,10013,NY,New York,77 Worth Street,0,0,0,1
+842,843,13871,539,58,Mannys Cafeteria and Delicatessen,(312) 939-2855,60607,IL,Chicago,1141 S Jefferson St,1,1,0,Manny's Cafeteria & Delicatessen,(312) 939-2855,60607,IL,Chicago,1141 S Jefferson Street,0,1,0,1
+90,91,269180,1001,1204,Murray’s Cheese Bar,(646) 476-8882,10014,NY,New York,264 Bleecker St,0,1,0,Murray's Cheese,(212) 243-3289,10014,NY,New York,254 Bleecker Street,1,1,0,0
+754,755,103184,471,436,Dimo’s Pizza,(773) 525-4580,60657,IL,Chicago,3463 N Clark St,1,1,0,Dimo's Pizza,(773) 525-4580,60657,IL,Chicago,3463 N. Clark Street,1,1,0,1
+880,881,648992,769,3225,Jubilee Juice & Grill,(312) 491-8500,60661,IL,Chicago,140 N Halsted St,1,1,0,Meli Cafe,(312) 454-0748,60661,IL,Chicago,301 S Halsted Street,0,1,0,0
+296,297,142664,476,641,New Rebozo Chicago,(312) 202-9141,60611,IL,Chicago,46 E Superior St,1,1,1,New Rebozo Chicago,(312) 202-4191,60611,IL,Chicago,46 E Superior Street,0,1,1,1
+72,73,27079,173,118,Tanta,(312) 222-9700,60654,IL,Chicago,118 W Grand Ave,0,0,1,La Scarola,(312) 243-1740,60654,IL,Chicago,721 W. Grand Avenue,0,1,0,0
+364,365,19690,588,86,DMK Burger Bar,(773) 360-8686,60657,IL,Chicago,2954 N Sheffield Ave,0,1,0,DMK Burger Bar,(773) 360-8686,60657,IL,Chicago,2954 N Sheffield Avenue,0,1,0,1
+326,327,662170,2397,3280,It’s Bao Time,(206) 227-2815,98109,WA,Seattle,320 Westlake Ave N,0,1,0,Toulouse Petit,(206) 432-9069,98109,WA,Seattle,601 Queen Anne Avenue N,0,1,0,0
+254,255,157618,1369,723,Sweet Buttons Desserts,(212) 253-8484,10002,NY,New York,84 Rivington St,1,1,0,Katz's Delicatessen,(212) 254-2246,10002,NY,New York,205 East Houston Street,0,1,0,0
+1042,1043,404895,2526,2011,Cafe du Soleil,(415) 699-6154,94107,CA,San Francisco,345 3rd St,1,1,1,Goat Hill Pizza,(415) 641-1440,94107,CA,San Francisco,300 Connecticut Street,0,1,0,0
+572,573,36631,667,154,Meatheads,(773) 525-5300,60618,IL,Chicago,3304 N Western Ave,0,1,0,The Bad Apple,(773) 360-8406,60618,IL,Chicago,4300 N Lincoln Avenue,0,1,1,0
+246,247,420378,2509,2105,Thai Idea Vegetarian,(415) 440-8344,94109,CA,San Francisco,710 Polk St,0,1,0,Thai Spice,(415) 775-4777,94109,CA,San Francisco,1730 Polk Street,0,0,0,0
+22,23,135394,708,603,Grange Hall Burger Bar,(312) 491-0844,60607,IL,Chicago,844 W Randolph St,1,1,1,Nia Mediterranean,(312) 226-3110,60607,IL,Chicago,803 W. Randolph Street,1,1,1,0
+417,418,395211,2841,1955,Gamine,(415) 771-7771,94123,CA,San Francisco,2223 Union St,0,1,1,Rose's Cafe,(415) 775-2200,94123,CA,San Francisco,2298 Union Street,0,1,1,0
+705,706,125897,158,556,Homeslice,(312) 789-4600,60614,IL,Chicago,938 W Webster,1,1,1,Floriole Cafe & Bakery,(773) 883-1313,60614,IL,Chicago,1220 W Webster Avenue,0,1,1,0
+840,841,28448,765,122,Original Pancake House,(312) 642-7917,60611,IL,Chicago,22 E Bellevue Pl,0,1,1,The Original Pancake House,(312) 642-7917,60611,IL,Chicago,22 E. Bellevue Place,0,1,0,1
+438,439,680393,1650,3339,Tilikum Place Cafe,(206) 282-4830,98121,WA,Seattle,407 Cedar St,0,1,0,Tilikum Place Cafe,(206) 282-4830,98121,WA,Seattle,407 Cedar Street,0,1,0,1
+1020,1021,341244,2832,1584,Mission Pie,(415) 282-1500,94110,CA,San Francisco,2901 Mission St,0,1,0,Mission Chinese Food,(415) 863-2800,94110,CA,San Francisco,2234 Mission District Street,1,1,0,0
+380,381,193459,1267,894,Balthazar Restaurant,(212) 965-1414,10012,NY,New York,80 Spring St,0,1,0,Boqueria,(212) 343-4255,10012,NY,New York,171 Spring Street,0,1,0,0
+750,751,221374,1094,1016,Num Pang Sandwich Shop,(646) 791-0439,10003,NY,New York,28 E 12th St,1,1,0,Angelica Kitchen,(212) 228-2909,10003,NY,New York,300 E 12th Street,0,1,0,0
+580,581,105445,322,448,The Bongo Room,(773) 489-0690,60622,IL,Chicago,1470 N Milwaukee Ave,0,1,0,Roots Handmade Pizza,(773) 645-4949,60622,IL,Chicago,1924 W. Chicago Avenue,1,1,1,0
+21,22,218638,1349,1004,Bengal Tiger Indian Food,(212) 265-2703,10019,NY,New York,58 W 56th St,1,1,0,Bill's Bar & Burger,(212) 705-8510 (646) 439-1475,10019,NY,New York,16 W 51st Street,1,1,0,0
+878,879,182280,1290,839,Joe’s Pizza,(212) 366-1182,10014,NY,New York,7 Carmine St,1,1,0,Joe's Pizza,(212) 366-1182,10014,NY,New York,7 Carmine Street,1,1,0,1
+824,825,668338,2351,3302,Oddfellows Cafe & Bar,(206) 325-0807,98122,WA,Seattle,1525 10th Ave,0,1,1,Oddfellows Cafe & Bar,(206) 325-0807,98122,WA,Seattle,1525 10th Avenue,0,0,1,1
+723,724,340723,2498,1577,Espetus Brazilian Steak House,(415) 552-8792,94102,CA,San Francisco,1686 Market St,0,0,0,Farmerbrown,(415) 409-3276,94102,CA,San Francisco,25 Mason Street,0,1,0,0
+737,738,429411,2720,2168,Church Street Groceteria,(415) 660-5147,94114,CA,San Francisco,300 Church St,0,1,0,Chloe's Cafe,(415) 648-4116,94114,CA,San Francisco,1399 Church Street,0,1,1,0
+455,456,225754,882,1035,Pylos,(212) 473-0220,10009,NY,New York,128 E 7th St,0,1,0,Porchetta,(212) 777-2151,10009,NY,New York,110 East 7th Street,1,1,1,0
+201,202,683954,1763,3352,Maneki,(206) 622-2631,98104,WA,Seattle,304 6th Ave S,0,1,0,Maneki Restaurant,(206) 622-2631,98104,WA,Seattle,304 6th Avenue South,0,1,0,1
+197,198,368614,2591,1778,Chez Maman,(415) 655-9542,94107,CA,San Francisco,1401 18th St,0,1,1,Chez Maman,(415) 824-7166,94107,CA,San Francisco,1401 18th Street,0,1,1,1
+317,318,166220,1266,766,ChikaLicious Dessert Bar,(212) 995-9511,10003,NY,New York,203 E 10th St,0,0,0,Momofuku Milk Bar,(347) 577-9504,10003,NY,New York,251 East 13th Street,0,1,1,0
+1062,1063,421304,2498,2109,Espetus Brazilian Steak House,(415) 552-8792,94102,CA,San Francisco,1686 Market St,0,0,0,Caffe Delle Stelle,(415) 252-1110,94102,CA,San Francisco,395 Hayes Street,0,1,1,0
+399,400,203368,834,939,Thursday Kitchen,(646) 755-8088,10009,NY,New York,424 E 9th St,0,1,0,Big Gay Ice Cream Shop,(212) 533-9333,10009,NY,New York,125 E 7th Street,0,1,0,0
+10,11,46208,356,194,Chicago Pizza And Oven Grinder Company,(773) 248-2570,60614,IL,Chicago,2121 N Clark St,0,1,0,Summer House Santa Monica,(773) 634-4100,60614,IL,Chicago,1954 N Halsted Street,0,1,1,0
+578,579,105407,200,448,Piece Brewery and Pizzeria,(773) 772-4422,60622,IL,Chicago,1927 W North Ave,1,1,0,Roots Handmade Pizza,(773) 645-4949,60622,IL,Chicago,1924 W. Chicago Avenue,1,1,1,0
+605,606,223050,1431,1022,Vanessa’s Dumpling House,(212) 625-8008,10002,NY,New York,118A Eldridge St,0,1,0,Vanessa's Dumpling House,(212) 625-8008,10002,NY,New York,118A Eldridge Street,0,1,0,1
+517,518,153377,289,704,The Map Room,(773) 252-7636,60647,IL,Chicago,1949 N Hoyne Ave,0,0,0,Father & Son,(773) 252-2620,60647,IL,Chicago,2475 N Milwaukee Avenue,1,1,0,0
+678,679,7720,547,33,Mindy’s Hot Chocolate,(773) 489-1747,60647,IL,Chicago,1747 N Damen Ave,0,1,0,Mindy's Hot Chocolate,(773) 489-1747,60647,IL,Chicago,1747 N Damen Avenue,0,1,0,1
+51,52,653960,214,3248,Davanti Enoteca,(312) 226-5550,60607,IL,Chicago,1359 W Taylor St,0,1,0,Davanti Enoteca,(312) 226-5550,60607,IL,Chicago,1359 W Taylor Street,0,1,0,1
+185,186,183515,1291,846,La Maison du Macaron,(212) 243-2757,10011,NY,New York,132 W 23rd St,0,1,0,Alta,(212) 505-7777,10011,NY,New York,64 W 10th Street,0,0,0,0
+1096,1097,454275,2893,2350,Hog Island Oyster Co,(415) 391-7117,94111,CA,San Francisco,1 Ferry Bldg,0,0,1,Frog Hollow Farm,(415) 445-0990,94111,CA,San Francisco,Ferry Building,0,0,0,0
+577,578,105385,160,448,Rootstock Wine & Beer Bar,(773) 292-1616,60622,IL,Chicago,954 N California Ave,0,0,1,Roots Handmade Pizza,(773) 645-4949,60622,IL,Chicago,1924 W. Chicago Avenue,1,1,1,0
+612,613,107305,308,455,Benny’s Chop House,(312) 626-2444,60611,IL,Chicago,444 N Wabash Ave,0,1,0,P.F. Chang's,(312) 828-9977,60611,IL,Chicago,530 N. Wabash Avenue,0,1,0,0
+1003,1004,421400,2822,2110,Sotto Mare,(415) 398-3181,94133,CA,San Francisco,552 Green St,0,1,1,Caffe Sport,(415) 981-1251,94133,CA,San Francisco,574 Green Street,0,0,0,0
+6,7,454721,2739,2354,The Little Chihuahua,(415) 255-8225,94117,CA,San Francisco,292 Divisadero St,0,1,0,Bean Bag Cafe,(415) 563-3634,94117,CA,San Francisco,601 Divisadero Street,0,0,1,0
+323,324,295654,1458,1335,Eclair Bakery,(212) 759-2253,10022,NY,New York,305 E 53rd St,1,1,0,Papillon Bistro & Bar,(212) 754-9006,10022,NY,New York,22 E 54th Street,0,1,1,0
+112,113,370005,2774,1785,Il Casaro Pizzeria & Mozzarella Bar,(415) 677-9455,94133,CA,San Francisco,348 Columbus Ave,0,1,0,Caffe Greco,(415) 397-6261,94133,CA,San Francisco,423 Columbus Avenue,0,1,1,0
+694,695,178302,1488,813,Rasa,(212) 254-1888,10011,NY,New York,25 W 8th St,1,1,0,Boqueria,(212) 255-4160,10011,NY,New York,53 W 19th Street,1,1,0,0
+390,391,704235,2336,3444,El Quetzal,(206) 329-2970,98144,WA,Seattle,3209 Beacon Ave S,0,1,1,Bar del Corso,(206) 395-2069,98144,WA,Seattle,3057 Beacon Avenue South,0,1,1,0
+475,476,30053,180,130,Dos Urban Cantina,(773) 661-6452,60647,IL,Chicago,2829 W Armitage Ave,1,1,1,Margie's Candies,(773) 348-0400,60647,IL,Chicago,1960 N Western Avenue,0,1,0,0
+1088,1089,72696,500,315,Bobtail Ice Cream Company,(773) 880-7372,60657,IL,Chicago,2951 N Broadway St,0,1,1,Chilam Balam,(773) 296-6901,60657,IL,Chicago,3023 N. Broadway Street,0,1,0,0
+628,629,215352,947,986,Pommes Frites,(212) 674-1234,10012,NY,New York,128 Macdougal St,0,1,0,Hundred Acres,(212) 475-7500,10012,NY,New York,38 MacDougal Street,0,1,0,0
+522,523,205985,1031,953,Pearl Oyster Bar,(212) 691-8211,10014,NY,New York,18 Cornelia St,0,1,0,Pearl Oyster Bar,(212) 691-8211,10014,NY,New York,18 Cornelia Street,0,0,0,1
+476,477,30083,237,130,Handlebar,(773) 384-9546,60647,IL,Chicago,2311 W North Ave,0,1,1,Margie's Candies,(773) 348-0400,60647,IL,Chicago,1960 N Western Avenue,0,1,0,0
+861,862,181979,1542,837,Jack’s Stir Brew Coffee,(212) 929-0821,10014,NY,New York,138 W 10th St,0,1,1,Bagatelle,(212) 488-2110,10014,NY,New York,1 Little W 12th Street,0,0,1,0
+916,917,397392,3043,1972,Stanza Coffee,(415) 553-8966,94103,CA,San Francisco,3126 16th St,0,1,1,SOMA Restaurant & Bar,(415) 778-8500,94103,CA,San Francisco,85 5th Street,0,0,0,0
+489,490,15854,721,69,Friends Sushi,(312) 787-8998,60611,IL,Chicago,710 N Rush St,1,1,1,Hugo's Frog Bar & Fish House,(312) 640-0999,60611,IL,Chicago,1024 N Rush Street,0,1,1,0
+471,472,46420,43,195,Joe’s Seafood,(312) 379-5637,60611,IL,Chicago,60 E Grand Ave,1,1,0,Ghirardelli Chocolate Shop,(312) 337-9330,60611,IL,Chicago,830 N Michigan Avenue,0,1,1,0
+611,612,12433,331,51,The Chicago Diner,(773) 935-6696,60657,IL,Chicago,3411 N Halsted St,0,1,1,The Chicago Diner,(773) 935-6696,60657,IL,Chicago,3411 North Halsted Street,0,1,0,1
+182,183,434687,2677,2201,Woodhouse Fish Company,(415) 437-2722,94114,CA,San Francisco,2073 Market St,0,1,0,Toast Eatery,(415) 642-6328,94114,CA,San Francisco,3991 24th Street,0,1,1,0
+138,139,50942,568,216,Sam & George’s,(773) 935-4025,60657,IL,Chicago,3000 N Lincoln Ave,0,1,0,Southport Grocery & Cafe,(773) 665-0100,60657,IL,Chicago,3552 North Southport Avenue,1,1,1,0
+599,600,677473,2332,3330,Shug’s Soda Fountain + Ice Cream,(206) 602-6420,98101,WA,Seattle,1525 1st Avenue,0,1,1,The Crumpet Shop,(206) 682-1598,98101,WA,Seattle,1503 1st Avenue Pike Place Market,0,1,1,0
+1006,1007,23240,418,101,Roy’s - Chicago,(312) 787-7599,60654,IL,Chicago,720 N State St,0,0,1,Roy's,(312) 787-7599,60654,IL,Chicago,720 N. State Street,0,1,1,1
+973,974,64847,247,273,Pequod’s Pizzeria,(773) 327-1512,60614,IL,Chicago,2207 N Clybourn Av,1,1,0,North Pond,(773) 477-5845,60614,IL,Chicago,2610 N. Cannon Drive,0,1,0,0
+20,21,218614,1020,1004,B Side Pizza & Wine Bar,(646) 679-7225,10019,NY,New York,370 W 51st St,0,1,0,Bill's Bar & Burger,(212) 705-8510 (646) 439-1475,10019,NY,New York,16 W 51st Street,1,1,0,0
+743,744,278819,1020,1251,B Side Pizza & Wine Bar,(646) 679-7225,10019,NY,New York,370 W 51st St,0,1,0,Azalea,(212) 262-0105,10019,NY,New York,224 W 51st Street,0,1,1,0
+515,516,329593,1464,1491,Auntie Guan’s Kitchen 108,(212) 206-8388,10011,NY,New York,108 W 14th St,1,1,0,La Bergamote Patisserie,(212) 627-9010,10011,NY,New York,177 9th Avenue,0,1,0,0
+1017,1018,342279,2839,1591,Il Canto Cafe,(415) 986-6565,94111,CA,San Francisco,275 Battery St,0,1,0,Fog City,(415) 982-2000,94111,CA,San Francisco,1300 Battery Street,0,1,1,0
+76,77,157167,910,721,Le Bernardin,(212) 554-1515,10019,NY,New York,155 W 51st St,0,0,0,Le Bernardin,(212) 554-1515,10019,NY,New York,155 W 51st Street,0,0,0,1
+585,586,411724,3069,2051,AL’s Place,(415) 416-6136,94110,CA,San Francisco,1499 Valencia st,0,0,0,Udupi Palace,(415) 970-8000,94110,CA,San Francisco,1007 Valencia Street,0,1,0,0
+1086,1087,684824,2369,3357,Big Mario’s New York Style Pizza,(206) 455-9583,98122,WA,Seattle,1009 E Pike St,1,1,0,Bimbo's Cantina,(206) 322-9950,98122,WA,Seattle,1013 East Pike Street,1,1,0,0
+424,425,688557,2094,3370,Local 360,(206) 441-9360,98121,WA,Seattle,2234 1st Ave,0,1,1,List,(206) 441-1000,98121,WA,Seattle,2226 1st Avenue,0,0,1,0
+273,274,373736,2549,1806,Seven Hills,(415) 775-1550,94109,CA,San Francisco,1550 Hyde St,0,0,0,Miller's East Coast Deli,(415) 563-3542,94109,CA,San Francisco,1725 Polk Street,0,1,0,0
+311,312,140613,315,633,Wheat’s End Cafe,(773) 770-3527,60657,IL,Chicago,2873 N Broadway St,0,1,0,Rocks Lakeview,(773) 472-0493,60657,IL,Chicago,3463 N. Broadway Street,1,1,1,0
+462,463,344729,2774,1618,Il Casaro Pizzeria & Mozzarella Bar,(415) 677-9455,94133,CA,San Francisco,348 Columbus Ave,0,1,0,Trattoria Pinocchio,(415) 392-1472,94133,CA,San Francisco,401 Columbus Avenue,0,1,1,0
+704,705,709799,2196,3459,The Saint,(206) 323-9922,98122,WA,Seattle,1416 E Olive Way,0,1,0,The Saint,(206) 323-9922,98122,WA,Seattle,1416 East Olive Way,0,0,0,1
+93,94,367137,2970,1771,Nopalito,(415) 233-9966,94122,CA,San Francisco,1224 9th Ave,0,1,1,Nopalito,(415) 233-9966,94122,CA,San Francisco,1224 9th Avenue,0,1,1,1
+496,497,3022,722,12,Francesca’s Cafe,(630) 407-4641,60622,IL,Chicago,852 N Damen Ave,0,1,1,Piece,(773) 772-4422,60622,IL,Chicago,1927 W North Avenue,1,1,0,0
+382,383,193469,1559,894,Boqueria,(212) 343-4255,10012,NY,New York,171 Spring St,1,1,0,Boqueria,(212) 343-4255,10012,NY,New York,171 Spring Street,0,1,0,1
+721,722,318671,1324,1432,John’s Of Bleecker Street,(212) 243-1680,10014,NY,New York,278 Bleecker St,0,1,0,Murray's Cheese Bar,(646) 476-8882,10014,NY,New York,264 Bleecker Street,0,1,0,0
+1095,1096,693916,2252,3393,Seatown Seabar & Rotisserie,(206) 436-0390,98121,WA,Seattle,2010 Western Ave,0,1,1,Seatown Seabar & Rotisserie,(206) 436-0390,98121,WA,Seattle,2010 Western Avenue,0,1,1,1
+739,740,417669,3001,2085,Stella Pastry & Cafe,(415) 986-2914,94133,CA,San Francisco,446 Columbus Ave,0,1,0,Panta Rei,(415) 591-0900,94133,CA,San Francisco,431 Columbus Avenue,0,1,1,0
+912,913,353711,2631,1689,Craftsman and Wolves,(415) 913-7713,94110,CA,San Francisco,746 Valencia St,0,1,1,Locanda,(415) 863-6800,94110,CA,San Francisco,557 Valencia Street,0,0,0,0
+213,214,418535,2933,2093,Rossi’s Delicatessen,(415) 863-4533,94114,CA,San Francisco,426 Castro St,0,1,0,Thai House Express,(415) 864-5000,94114,CA,San Francisco,599 Castro Street,0,0,0,0
+884,885,302850,1241,1366,Sakagura,(212) 953-7253,10017,NY,New York,211 E 43rd St,0,0,0,Soba Totto,(212) 557-8200,10017,NY,New York,211 E 43rd Street,0,0,0,0
+873,874,712273,2243,3473,Mr. Gyros,(206) 782-7777,98107,WA,Seattle,5522 20th Ave NW,0,1,0,Stoneburner,(206) 695-2051,98107,WA,Seattle,5214 Ballard Avenue NW,0,0,0,0
+614,615,177642,1316,806,The NoMad Bar,(212) 796-1500,10001,NY,New York,10 W 28th St,0,0,0,The Breslin,(212) 679-1939,10001,NY,New York,16 W 29th Street,0,1,0,0
+544,545,376315,2658,1823,Tara Indian Cuisine,(415) 861-6655,94114,CA,San Francisco,2217 Market St,1,1,0,Catch,(415) 431-5000,94114,CA,San Francisco,2362 Market Street,0,1,1,0
+985,986,369406,3068,1781,Salumeria,(415) 471-2998,94110,CA,San Francisco,3000 20th St,0,1,1,Universal Cafe,(415) 821-4608,94110,CA,San Francisco,2814 19th Street,0,1,1,0
+547,548,67680,474,292,Piccolo Sogno,(312) 421-0077,60642,IL,Chicago,464 N Halsted St,0,1,1,Ada Street,(773) 697-7069,60642,IL,Chicago,1664 N Ada Street,0,0,1,0
+549,550,350763,2827,1661,Fino Ristorante & Bar,(415) 928-2080,94109,CA,San Francisco,624 Post St,0,0,0,Farm:Table,(415) 292-7089,94109,CA,San Francisco,754 Post Street,0,0,0,0
+634,635,251068,1291,1133,La Maison du Macaron,(212) 243-2757,10011,NY,New York,132 W 23rd St,0,1,0,Chelsea Pizza 23,(212) 206-0999,10011,NY,New York,268 West 23rd Street,1,1,0,0
+366,367,104491,294,444,Little Goat Diner,(312) 888-3455,60607,IL,Chicago,820 W Randolph St,0,1,1,Jaipur,(312) 526-3655,60607,IL,Chicago,847 W Randolph Street,1,1,1,0
+897,898,253169,1033,1143,Eight Turn Crêpe,(212) 334-3408,10012,NY,New York,55 Spring St,1,1,1,Spring Street Natural,(212) 966-0290,10012,NY,New York,62 Spring Street,1,1,1,0
+113,114,696685,2243,3404,Mr. Gyros,(206) 782-7777,98107,WA,Seattle,5522 20th Ave NW,0,1,0,Golden Beetle,(206) 706-2977,98107,WA,Seattle,1744 NW Market Street,0,1,0,0
+598,599,385865,3035,1898,Mama’s On Washington Square,(415) 362-6421,94133,CA,San Francisco,1701 Stockton St,0,0,0,Don Pisto's,(415) 395-0939,94133,CA,San Francisco,510 Union Street,0,1,0,0
+891,892,109966,567,474,The Pasta Bowl,(773) 525-2695,60614,IL,Chicago,2434 N Clark St,1,1,0,Pasta Bowl,(773) 525-2695,60614,IL,Chicago,2434 N Clark Street,1,1,0,1
+621,622,58751,654,242,Summer House,(773) 634-4100,60614,IL,Chicago,1954 N Halsted St,0,1,1,Sapori Trattoria,(773) 832-9999,60614,IL,Chicago,2701 N Halsted Street,0,1,1,0
+100,101,417915,2996,2087,Metro Caffe,(415) 621-9536,94117,CA,San Francisco,247 Fillmore St,1,1,1,Cafe Du Soleil,(415) 934-8637,94117,CA,San Francisco,200 Fillmore Street,0,0,1,0
+31,32,387427,2659,1908,Taqueria Cancún,(415) 252-9560,94110,CA,San Francisco,2288 Mission St,0,1,0,Cha Cha Cha,(415) 824-1502,94110,CA,San Francisco,2327 Mission District Street,0,1,0,0
+30,31,387421,2640,1908,La Taqueria,(415) 285-7117,94110,CA,San Francisco,2889 Mission St,0,1,1,Cha Cha Cha,(415) 824-1502,94110,CA,San Francisco,2327 Mission District Street,0,1,0,0
+713,714,680013,1770,3337,Quinn’s,(206) 325-7711,98122,WA,Seattle,1001 E Pike St,0,0,0,Poquitos,(206) 453-4216,98122,WA,Seattle,1000 E Pike Street,0,1,1,0
+714,715,680031,1902,3337,Skillet Capitol Hill,(206) 512-2001,98122,WA,Seattle,1400 E Union St,0,1,1,Poquitos,(206) 453-4216,98122,WA,Seattle,1000 E Pike Street,0,1,1,0
+461,462,344740,3004,1618,Franchino,(415) 982-2157,94133,CA,San Francisco,347 Columbus Ave,0,0,0,Trattoria Pinocchio,(415) 392-1472,94133,CA,San Francisco,401 Columbus Avenue,0,1,1,0
+816,817,29276,356,126,Chicago Pizza And Oven Grinder Company,(773) 248-2570,60614,IL,Chicago,2121 N Clark St,0,1,0,Mon Ami Gabi,(773) 348-8886,60614,IL,Chicago,2300 N. Lincoln Park West,0,1,1,0
+84,85,427274,3001,2153,Stella Pastry & Cafe,(415) 986-2914,94133,CA,San Francisco,446 Columbus Ave,0,1,0,Kennedy's Irish Pub and Curry House,(415) 441-8855,94133,CA,San Francisco,1040 Columbus Avenue,0,1,0,0
+1034,1035,371933,2974,1799,Curry Leaf,(415) 440-4293,94133,CA,San Francisco,943 Columbus Ave,0,1,1,Curry Leaf,(415) 440-4293,94133,CA,San Francisco,943 Columbus Avenue,0,1,0,1
+1054,1055,981,212,6,The Purple Pig,(312) 464-1744,60611,IL,Chicago,500 N Michigan Ave,0,0,1,The Purple Pig,(312) 464-1744,60611,IL,Chicago,500 N Michigan Avenue,0,1,1,1
+753,754,692374,2207,3386,RoRo BBQ & Grill,(206) 954-1100,98103,WA,Seattle,3620 Stone Way N,0,1,1,RoRo BBQ & Grill,(206) 954-1100,98103,WA,Seattle,3620 Stone Way N,0,1,1,1
+407,408,57481,33,239,Bohemian House,(312) 955-0439,60654,IL,Chicago,11 W Illinois St,0,0,0,Bohemian House,(312) 955-0439,60654,IL,Chicago,11 W Illinois Street,0,1,0,1
+668,669,26669,535,116,Bongiorno’s Italian Deli & Pizzeria,(312) 755-1255,60611,IL,Chicago,405 N Wabash Ave,1,1,1,Wow Bao,(312) 642-5888,60611,IL,Chicago,835 N Michigan Avenue Level G,0,1,0,0
+154,155,282117,1568,1264,Flinders Lane,(212) 228-6900,10009,NY,New York,162 Ave A,0,1,0,Zum Schneider,(212) 598-1098,10009,NY,New York,107 Avenue C,0,1,1,0
+375,376,79675,328,349,Antique Taco,(773) 687-8697,60622,IL,Chicago,1360 N Milwaukee Ave,0,1,1,Arami,(312) 243-1535,60622,IL,Chicago,1829 W. Chicago Avenue,1,1,0,0
+633,634,656011,684,3256,White Oak Tavern & Inn,(773) 248-0200,60614,IL,Chicago,1200 W Webster Ave,0,1,1,Toast,(773) 935-5600,60614,IL,Chicago,746 W Webster Avenue,0,1,0,0
+329,330,179005,913,818,Mamoun’s Falafel,(212) 674-8685,10012,NY,New York,119 MacDougal St,0,1,1,Mamoun's Falafel,(212) 674-8685,10012,NY,New York,119 MacDougal Street,0,1,1,1
+55,56,48841,209,206,Doc B’s Fresh Kitchen,(312) 626-1300,60611,IL,Chicago,100 E Walton St,1,1,1,Emilio's Sol Y Nieve,(312) 467-7177,60611,IL,Chicago,215 E Ohio Street,0,1,1,0
+127,128,6498,43,26,Joe’s Seafood,(312) 379-5637,60611,IL,Chicago,60 E Grand Ave,1,1,0,Joe's Seafood,(312) 379-5637,60611,IL,Chicago,60 E Grand Avenue,1,1,0,1
+39,40,293950,1596,1323,Balzem,(646) 837-7033,10012,NY,New York,202 Mott St,1,1,1,Balzem,(646) 837-7033,10012,NY,New York,202 Mott Street,1,1,1,1
+357,358,52983,167,220,Uncle Mike’s Place,(312) 226-5318,60622,IL,Chicago,1700 W Grand Ave,1,1,1,Bite Cafe,(773) 395-2483,60622,IL,Chicago,1039 N Western Avenue,0,1,0,0
+710,711,668002,1610,3301,Storyville Coffee Company,(206) 780-5777,98101,WA,Seattle,94 Pike St,0,1,0,The Cheesecake Factory,(206) 652-5400,98101,WA,Seattle,700 Pike Street,0,1,0,0
+919,920,451728,2595,2321,La Folie,(415) 776-5577,94109,CA,San Francisco,2316 Polk St,0,0,0,Thai Idea Vegetarian,(415) 440-8344,94109,CA,San Francisco,710 Polk Street,0,1,0,0
+362,363,150818,721,690,Friends Sushi,(312) 787-8998,60611,IL,Chicago,710 N Rush St,1,1,1,Hendrickx Belgian Bread Crafter,(312) 649-6717,60611,IL,Chicago,1100 E Walton Street Walton Colonnade,0,1,1,0
+0,1,13168,661,55,Oasis Cafe,(312) 443-9534,60602,IL,Chicago,21 N Wabash Ave,0,1,0,Heaven on Seven,(312) 263-6443,60602,IL,Chicago,111 N Wabash Avenue Garland Building,0,1,0,0
+370,371,699862,2221,3420,Pike’s Pit Bar-B-Que,(206) 538-0779,98101,WA,Seattle,1505 Pike Place Market,0,1,1,P.F. Chang's,(206) 393-0070,98101,WA,Seattle,400 Pine Street Westlake Center Level 1,0,1,0,0
+61,62,653327,328,3246,Antique Taco,(773) 687-8697,60622,IL,Chicago,1360 N Milwaukee Ave,0,1,1,Antique Taco,(773) 687-8697,60622,IL,Chicago,1360 N. Milwaukee Avenue,0,1,0,1
+774,775,425448,2958,2144,Gracias Madre,(415) 683-1346,94110,CA,San Francisco,2211 Mission St,0,1,1,Mi Lindo Peru,(415) 642-4897,94110,CA,San Francisco,3226 Mission Street,0,1,0,0
+385,386,658305,251,3263,Robert’s Pizza Company,(708) 536-4597,60611,IL,Chicago,355 E Ohio St,0,1,0,Niu Japanese Fusion Lounge,(312) 527-2888,60611,IL,Chicago,332 E Illinois Street,1,1,1,0
+333,334,306147,1562,1381,Bleecker Street Pizza,(212) 924-4466,10014,NY,New York,69 7th Ave S,1,1,1,Soto,(212) 414-3088,10014,NY,New York,357 6th Avenue,0,0,0,0
+877,878,159121,1434,730,The Modern,(212) 333-1220,10019,NY,New York,9 W 53rd St,0,0,0,The Halal Guys,(347) 527-1505,10019,NY,New York,6th Avenue & W 53rd Street,0,0,0,0
+830,831,423495,2920,2128,Albona Ristorante Istriano,(415) 441-1040,94133,CA,San Francisco,545 Francisco St,0,1,0,Albona,(415) 441-1040,94133,CA,San Francisco,545 Francisco Street,0,0,0,1
+583,584,202482,1469,934,Strip House,(212) 328-0000,10003,NY,New York,13 E 12th St,0,0,0,Strip House,(212) 328-0000,10003,NY,New York,13 E 12th Street,0,0,0,1
+288,289,390860,2857,1929,Mymy,(415) 800-7466,94109,CA,San Francisco,1500 California St,0,1,1,MyMy Coffee Shop,(415) 800-7466,94109,CA,San Francisco,1500 California Street,0,1,1,1
+77,78,157182,1034,721,Loi Estiatorio,(212) 713-0015,10019,NY,New York,132 W 58th St,1,1,0,Le Bernardin,(212) 554-1515,10019,NY,New York,155 W 51st Street,0,0,0,0
+259,260,402130,3045,1993,Yuzuki Japanese Eatery,(415) 556-9898,94110,CA,San Francisco,598 Guerrero St,0,0,0,El Toro Taqueria,(415) 431-3351,94110,CA,San Francisco,598 Valencia Street,0,1,0,0
+766,767,333777,2715,1520,Taylor Street Coffee Shop,(415) 567-4031,94102,CA,San Francisco,375 Taylor St,0,1,0,Taylor Street Coffee Shop,(415) 567-4031,94102,CA,San Francisco,375 Taylor Street,0,1,0,1
+983,984,369381,2930,1781,Dynamo Donut & Coffee,(415) 920-1978,94110,CA,San Francisco,2760 24th St,0,1,1,Universal Cafe,(415) 821-4608,94110,CA,San Francisco,2814 19th Street,0,1,1,0
+27,28,95904,471,414,Dimo’s Pizza,(773) 525-4580,60657,IL,Chicago,3463 N Clark St,1,1,0,Kanela Breakfast Club,(773) 248-1622,60657,IL,Chicago,3231 N. Clark Street,1,1,0,0
+896,897,253161,942,1143,Aquagrill,(212) 274-0505,10012,NY,New York,210 Spring Street,0,1,1,Spring Street Natural,(212) 966-0290,10012,NY,New York,62 Spring Street,1,1,1,0
+638,639,119073,58,525,Fatso’s Last Stand,(773) 245-3287,60622,IL,Chicago,2258 W Chicago Ave,1,1,1,Fatso's Last Stand,(773) 245-3287,60622,IL,Chicago,2258 W. Chicago Avenue,1,1,1,1
+956,957,410449,3059,2039,Garibaldi’s,(415) 563-8841,94115,CA,San Francisco,347 Presidio Ave,0,1,0,Ella's,(415) 441-5669,94115,CA,San Francisco,500 Presidio Avenue,0,1,0,0
+685,686,345655,2907,1623,Cafe Golo,(415) 673-4656,94123,CA,San Francisco,1602 Lombard St,0,1,0,Cafe Golo,(415) 673-4656,94123,CA,San Francisco,1602 Lombard Street,0,1,0,1
+615,616,226272,1241,1037,Sakagura,(212) 953-7253,10017,NY,New York,211 E 43rd St,0,0,0,Avra,(212) 759-8550,10017,NY,New York,141 E 48th Street,0,1,1,0
+707,708,189447,943,877,Blue Hill,(212) 539-1776,10011,NY,New York,75 Washington Pl,0,0,0,Blue Hill,(212) 539-1776,10011,NY,New York,75 Washington Place,0,0,0,1
+371,372,699821,1897,3420,Tango,(206) 583-0382,98101,WA,Seattle,1100 Pike St,0,1,0,P.F. Chang's,(206) 393-0070,98101,WA,Seattle,400 Pine Street Westlake Center Level 1,0,1,0,0
+918,919,451721,2509,2321,Thai Idea Vegetarian,(415) 440-8344,94109,CA,San Francisco,710 Polk St,0,1,0,Thai Idea Vegetarian,(415) 440-8344,94109,CA,San Francisco,710 Polk Street,0,1,0,1
+755,756,18265,748,79,Alliance Bakery & Cafe,(773) 278-0366,60622,IL,Chicago,1736 W Division St,0,1,1,Smoke Daddy,(773) 772-6656,60622,IL,Chicago,1804 W. Division Street,1,1,1,0
+40,41,92255,201,400,Toro Sushi,(773) 348-7255,60614,IL,Chicago,2546 N Clark St,0,1,0,Macku Sushi,(773) 880-8012,60614,IL,Chicago,2239 N Clybourn Avenue,1,1,0,0
+867,868,205066,1260,946,Red Bamboo,(212) 260-1212,10012,NY,New York,140 W 4th St,1,1,0,Red Bamboo,(212) 260-1212,10012,NY,New York,140 W 4th Street,1,1,0,1
+176,177,148945,262,678,The Franklin Room,(312) 445-4686,60654,IL,Chicago,675 N Franklin St,0,1,0,Green Door Tavern,(312) 664-5496,60654,IL,Chicago,678 N Orleans Street,0,1,0,0
+536,537,29020,731,125,Bow Truss Coffee Roasters River North,(312) 222-1306,60654,IL,Chicago,406 N Wells St,0,1,0,Chicago Cut Steakhouse,(312) 329-1800,60654,IL,Chicago,300 N LaSalle Street,0,1,0,0
+798,799,13579,322,57,The Bongo Room,(773) 489-0690,60622,IL,Chicago,1470 N Milwaukee Ave,0,1,0,The Bongo Room,(773) 489-0690,60622,IL,Chicago,1470 N Milwaukee Avenue,0,1,0,1
+655,656,46071,73,193,Viaggio Ristorante & Lounge,(312) 829-3333,60607,IL,Chicago,1330 W Madison St,0,1,1,Sweet Maple Cafe,(312) 243-8908,60607,IL,Chicago,1339 W. Taylor Street,0,1,0,0
+767,768,333934,2541,1522,The Soapbox Cafe,(415) 829-7139,94109,CA,San Francisco,1800 Hyde St,0,1,0,The Buena Vista,(415) 474-5044,94109,CA,San Francisco,2765 Hyde Street,0,1,0,0
+1048,1049,658223,539,3262,Mannys Cafeteria and Delicatessen,(312) 939-2855,60607,IL,Chicago,1141 S Jefferson St,1,1,0,Green Street Smoked Meats,(312) 754-0434,60607,IL,Chicago,112 N Green Street,0,1,0,0
+7,8,454720,2736,2354,Mojo Bicycle Café,(415) 440-2338,94117,CA,San Francisco,639 Divisadero St,0,1,1,Bean Bag Cafe,(415) 563-3634,94117,CA,San Francisco,601 Divisadero Street,0,0,1,0
+703,704,333270,3068,1512,Salumeria,(415) 471-2998,94110,CA,San Francisco,3000 20th St,0,1,1,Delfina,(415) 552-4055,94110,CA,San Francisco,3621 18th Street,0,1,1,0
+553,554,337208,2509,1550,Thai Idea Vegetarian,(415) 440-8344,94109,CA,San Francisco,710 Polk St,0,1,0,Swan Oyster Depot,(415) 673-1101,94109,CA,San Francisco,1517 Polk Street,0,1,0,0
+253,254,157582,1198,723,Katz’s Delicatessen,(212) 254-2246,10002,NY,New York,205 E Houston St,1,1,0,Katz's Delicatessen,(212) 254-2246,10002,NY,New York,205 East Houston Street,0,1,0,1
+962,963,683817,1967,3351,Palisade,(206) 285-1000,98199,WA,Seattle,2601 W Marina Pl,0,0,1,Palisade,(206) 285-1000,98199,WA,Seattle,2601 West Marina Place,0,1,1,1
+729,730,353621,2931,1688,Pork Store Cafe,(415) 864-6981,94117,CA,San Francisco,1451 Haight St,0,1,0,Pork Store Cafe,(415) 864-6981,94117,CA,San Francisco,1451 Haight Street,0,1,0,1
+814,815,29186,5,126,Alinea,(312) 867-0110,60614,IL,Chicago,1723 N Halsted St,0,0,0,Mon Ami Gabi,(773) 348-8886,60614,IL,Chicago,2300 N. Lincoln Park West,0,1,1,0
+1040,1041,443999,2482,2272,Sushi Zone,(415) 621-1114,94103,CA,San Francisco,1815 Market St,0,0,0,Sushi Zone,(415) 621-1114,94103,CA,San Francisco,1815 Market Street,0,0,0,1
+992,993,185524,1223,855,Doughnut Plant,(212) 505-3700,10011,NY,New York,220 W 23rd St,0,1,0,Doughnut Plant,(212) 675-9100,10011,NY,New York,220 Between 7th & 8th Avenue,0,1,0,1
+924,925,289087,1186,1299,Cha-An,(212) 228-8030,10003,NY,New York,230 E 9th St,0,1,0,Cha-An,(212) 228-8030,10003,NY,New York,230 E 9th Street,0,1,0,1
+1,2,414520,2640,2063,La Taqueria,(415) 285-7117,94110,CA,San Francisco,2889 Mission St,0,1,1,El Techo de Lolinda,(415) 550-6970,94110,CA,San Francisco,2518 Mission District Street,0,0,1,0
+1080,1081,143233,243,646,Beatrix River North,(312) 284-1377,60654,IL,Chicago,519 North Clark Street,0,1,1,Bow Truss Coffee Roasters,(312) 222-1306,60654,IL,Chicago,406 North Wells Street,0,1,0,0
+319,320,10562,459,45,Artopolis,(312) 559-9000,60661,IL,Chicago,306 S Halsted St,0,1,0,Greek Islands,(312) 782-9855,60661,IL,Chicago,200 S Halsted Street,0,1,1,0
+327,328,661949,1778,3280,Toulouse Petit,(206) 432-9069,98109,WA,Seattle,601 Queen Anne Ave N,0,0,0,Toulouse Petit,(206) 432-9069,98109,WA,Seattle,601 Queen Anne Avenue N,0,1,0,1
+119,120,400113,2779,1985,Universal Cafe,(415) 821-4608,94110,CA,San Francisco,2814 19th St,0,1,1,Mission Pie,(415) 282-1500,94110,CA,San Francisco,2901 Mission District Street,0,1,1,0
+450,451,140181,715,630,Le Colonial,(312) 255-0088,60611,IL,Chicago,937 N Rush St,0,1,1,Corner Bakery Cafe,(312) 266-2570,60611,IL,Chicago,676 N St. Clair Street,0,1,1,0
+609,610,183762,1543,847,Maialino,(212) 777-2410,10010,NY,New York,2 Lexington Ave,0,0,0,Maialino At Gramercy Park Hotel,(212) 777-2410,10010,NY,New York,2 Lexington Avenue,0,0,0,1
+538,539,29007,658,125,Osteria Via Stato,(312) 642-8450,60654,IL,Chicago,620 N State St,1,1,1,Chicago Cut Steakhouse,(312) 329-1800,60654,IL,Chicago,300 N LaSalle Street,0,1,0,0
+740,741,417645,2582,2085,Italian Homemade Company,(415) 712-8874,94133,CA,San Francisco,716 Columbus Ave,0,1,1,Panta Rei,(415) 591-0900,94133,CA,San Francisco,431 Columbus Avenue,0,1,1,0
+1007,1008,23317,773,101,River Roast,(312) 822-0100,60654,IL,Chicago,315 N La Salle Dr,1,1,1,Roy's,(312) 787-7599,60654,IL,Chicago,720 N. State Street,0,1,1,0
+57,58,16972,289,74,The Map Room,(773) 252-7636,60647,IL,Chicago,1949 N Hoyne Ave,0,0,0,Sultan's Market,(773) 235-3072,60647,IL,Chicago,2057 W North Avenue,1,1,0,0
+65,66,394060,2733,1947,Spin City Launderette & Coffee Bar,(415) 695-2939,94114,CA,San Francisco,1299 Sanchez St,0,1,1,Samovar Tea Lounge,(415) 626-4700,94114,CA,San Francisco,498 Sanchez Street,0,1,1,0
+1012,1013,364700,2963,1760,Isa Restaurant,(415) 567-9588,94123,CA,San Francisco,3324 Steiner St,0,1,1,The Plant Cafe Organic,(415) 931-2777,94123,CA,San Francisco,3352 Steiner Street,1,1,1,0
+1019,1020,341173,2491,1584,El Farolito,(415) 824-7877,94110,CA,San Francisco,2779 Mission St,0,1,0,Mission Chinese Food,(415) 863-2800,94110,CA,San Francisco,2234 Mission District Street,1,1,0,0
+109,110,116682,751,515,Kiki’s Bistro,(312) 335-5454,60610,IL,Chicago,900 N Franklin St,0,1,1,Blue Agave,(312) 335-8900,60610,IL,Chicago,1050 N State Street,0,1,1,0
+147,148,405091,2690,2013,Swan Oyster Depot,(415) 673-1101,94109,CA,San Francisco,1517 Polk St,0,1,0,Aux Delices,(415) 928-4977,94109,CA,San Francisco,2327 Polk Street,1,1,0,0
+216,217,202069,1471,931,Momofuku Ko,(212) 500-0831,10003,NY,New York,8 Extra Pl,0,0,0,Momofuku Ko,(212) 203-8095,10003,NY,New York,8 Extra Place,0,0,0,1
+561,562,102537,160,434,Rootstock Wine & Beer Bar,(773) 292-1616,60622,IL,Chicago,954 N California Ave,0,0,1,Lockdown Bar & Grill,(773) 451-5625,60622,IL,Chicago,1024 N. Western Avenue,0,1,1,0
+1076,1077,187049,1422,864,Tu-Lu’s Gluten-Free Bakery,(212) 777-2227,10003,NY,New York,338 E 11th St,1,1,0,Prune,(212) 677-6221,10003,NY,New York,54 E 1st Street,0,0,0,0
+47,48,665783,1910,3291,Dahlia Lounge,(206) 682-4142,98121,WA,Seattle,2001 4th Ave,0,1,0,Macrina Bakery,(206) 448-4032,98121,WA,Seattle,2408 1st Avenue,0,1,1,0
+1078,1079,405243,3017,2014,Regent Thai Restaurant,(415) 643-5893,94131,CA,San Francisco,1700 Church St,0,1,0,Regent Thai,(415) 643-5893,94131,CA,San Francisco,1700 Church Street,0,0,0,1
+900,901,253194,1267,1143,Balthazar Restaurant,(212) 965-1414,10012,NY,New York,80 Spring St,0,1,0,Spring Street Natural,(212) 966-0290,10012,NY,New York,62 Spring Street,1,1,1,0
+907,908,386209,2659,1899,Taqueria Cancún,(415) 252-9560,94110,CA,San Francisco,2288 Mission St,0,1,0,Commonwealth,(415) 355-1500,94110,CA,San Francisco,2224 Mission District Street,0,0,0,0
+513,514,329559,1097,1491,Buddakan,(212) 989-6699,10011,NY,New York,75 9th Ave,0,0,0,La Bergamote Patisserie,(212) 627-9010,10011,NY,New York,177 9th Avenue,0,1,0,0
+1075,1076,187011,1344,864,Pata Negra,(212) 228-1696,10003,NY,New York,345 E 12th St,0,0,0,Prune,(212) 677-6221,10003,NY,New York,54 E 1st Street,0,0,0,0
+844,845,13878,663,58,Morgan Street Cafe,(312) 850-0234,60607,IL,Chicago,111 S Morgan St,1,1,1,Manny's Cafeteria & Delicatessen,(312) 939-2855,60607,IL,Chicago,1141 S Jefferson Street,0,1,0,0
+166,167,338212,2892,1556,Trick Dog,(415) 471-2999,94110,CA,San Francisco,3010 20th St,0,0,0,Dynamo Donuts & Coffee,(415) 920-1978,94110,CA,San Francisco,2760 24th Street,0,1,0,0
+902,903,140983,285,635,Pasta Palazzo,(773) 248-1400,60614,IL,Chicago,1966 N Halsted St,0,1,0,Pasta Palazzo,(773) 248-1400,60614,IL,Chicago,1966 N. Halsted Street,0,1,0,1
+373,374,438877,3058,2241,Pica Pica Arepa Kitchen,(628) 400-5744,94103,CA,San Francisco,401 Valencia St,1,1,0,Pica Pica Arepa Kitchen,(414) 400-5453,94103,CA,San Francisco,401 Valencia Street,1,1,0,1
+306,307,127202,751,559,Kiki’s Bistro,(312) 335-5454,60610,IL,Chicago,900 N Franklin St,0,1,1,Kiki's Bistro,(312) 335-5454,60610,IL,Chicago,900 N. Franklin Street,0,0,1,1
+401,402,53916,658,223,Osteria Via Stato,(312) 642-8450,60654,IL,Chicago,620 N State St,1,1,1,Pizzeria Via Stato,(312) 642-8450,60654,IL,Chicago,620 N State Street,1,1,1,1
+733,734,279060,1102,1253,Luzzo’s,(212) 473-7447,10003,NY,New York,211 1st Ave,1,1,0,Lil' Frankie's,(212) 420-4900,10003,NY,New York,19 1st Avenue,1,1,1,0
+734,735,442694,2648,2264,Canela Bistro & Wine Bar,(415) 552-3000,94114,CA,San Francisco,2272 Market St,0,1,1,Jasmine Garden,(415) 861-2682,94114,CA,San Francisco,708 14th Street,0,0,0,0
+960,961,342888,3012,1602,Sheba Piano Lounge,(415) 440-7414,94115,CA,San Francisco,1419 Fillmore St,0,1,1,Dosa,(415) 441-3672,94115,CA,San Francisco,1700 Fillmore Street,0,1,0,0
+350,351,403770,3065,2002,Sun Rise Restaurant,(415) 206-1219,94110,CA,San Francisco,3126 24th St,0,1,0,Wise Sons,(415) 787-3354,94110,CA,San Francisco,3150 24th Street,0,1,0,0
+683,684,817,535,5,Bongiorno’s Italian Deli & Pizzeria,(312) 755-1255,60611,IL,Chicago,405 N Wabash Ave,1,1,1,Giordano's,(312) 951-0747,60611,IL,Chicago,730 N Rush Street,1,1,1,0
+613,614,177611,1107,806,The McKittrick Hotel,(212) 904-1880,10001,NY,New York,530 W 27th St,0,0,0,The Breslin,(212) 679-1939,10001,NY,New York,16 W 29th Street,0,1,0,0
+156,157,321032,1028,1443,Banh Mi Saigon,(212) 941-1541,10013,NY,New York,198 Grand St,1,1,0,Banh Mi Saigon,(212) 941-1541,10013,NY,New York,198 Grand Street,1,1,0,1
+44,45,665714,1738,3291,Lola,(206) 441-1430,98121,WA,Seattle,2000 4th Ave,0,1,1,Macrina Bakery,(206) 448-4032,98121,WA,Seattle,2408 1st Avenue,0,1,1,0
+745,746,414003,2639,2060,Hai Ky Mi Gia,(415) 771-2577,94109,CA,San Francisco,707 Ellis St,0,1,0,Thai Stick,(415) 928-7730,94109,CA,San Francisco,698 Post Street,0,1,0,0
+200,201,397658,2582,1973,Italian Homemade Company,(415) 712-8874,94133,CA,San Francisco,716 Columbus Ave,0,1,1,Comstock Saloon,(415) 617-0071,94133,CA,San Francisco,155 Columbus Avenue,0,1,1,0
+314,315,394713,3069,1952,AL’s Place,(415) 416-6136,94110,CA,San Francisco,1499 Valencia st,0,0,0,Puerto Alegre,(415) 255-8201,94110,CA,San Francisco,546 Valencia Street,0,1,0,0
+997,998,652136,356,3240,Chicago Pizza And Oven Grinder Company,(773) 248-2570,60614,IL,Chicago,2121 N Clark St,0,1,0,R.J. Grunts,(773) 929-5363,60614,IL,Chicago,2056 N Lincoln Park West,1,1,0,0
+80,81,371379,3029,1792,Wild Side West,(415) 647-3099,94110,CA,San Francisco,424 Cortland Ave,0,0,1,Limon Rotisserie,(415) 821-2134,94110,CA,San Francisco,1001 South Van Ness Avenue,0,1,0,0
+348,349,403741,2948,2002,Schmidt’s,(415) 401-0200,94110,CA,San Francisco,2400 Folsom St,0,1,0,Wise Sons,(415) 787-3354,94110,CA,San Francisco,3150 24th Street,0,1,0,0
+313,314,394704,2913,1952,Taqueria el Buen Sabor,(415) 552-8816,94110,CA,San Francisco,697 Valencia St,0,1,0,Puerto Alegre,(415) 255-8201,94110,CA,San Francisco,546 Valencia Street,0,1,0,0
+1093,1094,18420,500,80,Bobtail Ice Cream Company,(773) 880-7372,60657,IL,Chicago,2951 N Broadway St,0,1,1,Crisp,(877) 693-8653,60657,IL,Chicago,2940 N Broadway Street,1,1,0,0
+238,239,2,5,1,Alinea,(312) 867-0110,60614,IL,Chicago,1723 N Halsted St,0,0,0,Alinea,(312) 867-0110,60614,IL,Chicago,1723 N. Halsted Street,0,0,0,1
+79,80,371366,2878,1792,Cafeto Coffee Shop,(415) 970-9090,94110,CA,San Francisco,111 Richland Ave,0,1,1,Limon Rotisserie,(415) 821-2134,94110,CA,San Francisco,1001 South Van Ness Avenue,0,1,0,0
+839,840,28446,662,122,Rosebud Steakhouse,(312) 397-1000,60611,IL,Chicago,192 E Walton Pl,1,1,0,The Original Pancake House,(312) 642-7917,60611,IL,Chicago,22 E. Bellevue Place,0,1,0,0
+421,422,681966,2358,3345,Pie Bar Ballard,(206) 535-8489,98107,WA,Seattle,2218 NW Market St,0,1,0,Cupcake Royale,(206) 701-6238,98107,WA,Seattle,2052 NW Market Street,1,0,1,0
+454,455,314706,1588,1407,Westville Chelsea,(212) 924-2223,10011,NY,New York,246 W 18th St,1,1,1,Westville,(212) 924-2223 (212) 924-2201,10011,NY,New York,246 W 18th Street,1,1,1,1
