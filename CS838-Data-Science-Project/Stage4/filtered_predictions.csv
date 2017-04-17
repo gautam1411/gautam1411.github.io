@@ -1,0 +1,273 @@
+,restaurant_name,phone,zipcode,state,city,address,delivery,takeout,outdoor_seating
+512,,(212) 473-9148,10003,NY,New York,15 E 7th Street,No,No,No
+4,,(415) 550-6970,94110,CA,San Francisco,2518 Mission District Street,No,unknown,Yes
+1030,,(415) 550-7428,94110,CA,San Francisco,3388 24th Street,,Yes,Yes
+1031,,(415) 227-9400,94103,CA,San Francisco,730 Howard Street,,Yes,Yes
+8,,(415) 563-3634,94117,CA,San Francisco,601 Divisadero Street,No,unknown,Yes
+521,,(415) 556-9898,94110,CA,San Francisco,598 Guerrero Street,No,unknown,No
+522,,(212) 691-8211,10014,NY,New York,18 Cornelia Street,No,unknown,No
+523,,(312) 255-0851,60614,IL,Chicago,1909 N Lincoln Avenue,Yes,Yes,No
+12,,(773) 634-4100,60614,IL,Chicago,1954 N Halsted Street,No,Yes,Yes
+955,,(312) 440-8660,60611,IL,Chicago,39 E Chicago Avenue,No,Yes,unknown
+15,,(415) 864-8840,94103,CA,San Francisco,3071 16th Street,No,Yes,No
+16,,(206) 322-5800,98112,WA,Seattle,3130 East Madison Street,No,Yes,No
+529,,"(510) 653-3394,(415) 252-7535",94102,CA,San Francisco,315 Linden Street,No,unknown,Yes
+19,,(312) 787-8998,60611,IL,Chicago,710 North Rush Street,,Yes,Yes
+1044,,(212) 673-3783,10012,NY,New York,86 West 3rd Street,,unknown,No
+716,,(773) 360-7386,60622,IL,Chicago,1560 N. Damen Avenue,,Yes,No
+1046,,(312) 222-9700,60654,IL,Chicago,118 West Grand Avenue,No,No,unknown
+1047,,"(312) 754-0431,(312) 754-0434",60607,IL,Chicago,112 N Green Street,,Yes,unknown
+516,,(415) 252-0800,94103,CA,San Francisco,375 Valencia Street,No,Yes,Yes
+1050,,(773) 477-5466,60613,IL,Chicago,3763 North Southport Avenue,No,Yes,Yes
+541,,(312) 994-7100,60611,IL,Chicago,1015 N. Rush Street,No,No,Yes
+1054,,(312) 464-1744,60611,IL,Chicago,500 N Michigan Avenue,No,unknown,Yes
+1040,,(415) 621-1114,94103,CA,San Francisco,1815 Market Street,No,No,No
+34,,(312) 733-7820,60607,IL,Chicago,1250 S Union Avenue,No,Yes,No
+39,,(646) 837-7033,10012,NY,New York,202 Mott Street,Yes,Yes,Yes
+948,,(312) 329-0400,60654,IL,Chicago,59 W Grand Avenue,,Yes,No
+41,,(773) 880-8012,60614,IL,Chicago,2239 N Clybourn Avenue,Yes,Yes,No
+555,,(415) 673-1101,94109,CA,San Francisco,1517 Polk Street,No,Yes,No
+1069,,(312) 475-1100,60611,IL,Chicago,115 E Chicago Avenue,No,unknown,Yes
+46,,(206) 448-4032,98121,WA,Seattle,2408 1st Avenue,No,Yes,Yes
+605,,(212) 625-8008,10002,NY,New York,118A Eldridge Street,No,Yes,No
+1072,,(773) 248-9606,60614,IL,Chicago,953 W. Armitage Avenue,Yes,Yes,unknown
+562,,(773) 451-5625,60622,IL,Chicago,1024 N. Western Avenue,,Yes,Yes
+51,,(312) 226-5550,60607,IL,Chicago,1359 W Taylor Street,No,Yes,No
+52,,(206) 324-4140,98112,WA,Seattle,4220 East Madison Street,No,Yes,Yes
+54,,(312) 266-1616,60614,IL,Chicago,1655 N. Sedgwick Street,No,Yes,Yes
+56,,(773) 235-3072,60647,IL,Chicago,2057 W North Avenue,Yes,Yes,unknown
+706,,(773) 883-1313,60614,IL,Chicago,1220 W Webster Avenue,No,Yes,Yes
+60,,(212) 941-1100,10012,NY,New York,275 Mulberry Street,No,No,No
+61,,(773) 687-8697,60622,IL,Chicago,1360 N. Milwaukee Avenue,No,Yes,unknown
+62,,(415) 551-7827,94103,CA,San Francisco,400 Valencia Street,No,Yes,No
+64,,(415) 567-5432,94109,CA,San Francisco,1722 Sacramento Street,No,No,No
+66,,(415) 431-3990,94114,CA,San Francisco,579 Castro Street,No,Yes,unknown
+950,,(206) 512-2001,98122,WA,Seattle,1400 East Union Street,No,Yes,Yes
+70,,(773) 549-0038,60614,IL,Chicago,2119 N. Clark Street,No,Yes,No
+583,,(212) 328-0000,10003,NY,New York,13 E 12th Street,No,No,No
+584,,(415) 970-8000,94110,CA,San Francisco,1007 Valencia Street,,Yes,No
+1097,,(312) 822-0191,60654,IL,Chicago,400 N Wells Street,Yes,Yes,Yes
+76,,(212) 554-1515,10019,NY,New York,155 W 51st Street,No,No,No
+610,,(415) 986-8998,94133,CA,San Francisco,641 Vallejo Street,,Yes,Yes
+78,,(415) 821-2134,94110,CA,San Francisco,1001 South Van Ness Avenue,No,Yes,No
+781,,(415) 567-9588,94123,CA,San Francisco,3324 Steiner Street,No,unknown,unknown
+921,,(312) 626-2444,60611,IL,Chicago,444 N. Wabash Avenue,No,Yes,No
+597,,(347) 335-0446,11211,NY,Brooklyn,298 Bedford Avenue,No,No,Yes
+601,,(206) 682-1598,98101,WA,Seattle,1503 1st Avenue Pike Place Market,No,Yes,Yes
+91,,(773) 327-5600,60657,IL,Chicago,3033 North Ashland Avenue,Yes,Yes,No
+92,,(206) 623-3180,98101,WA,Seattle,Pike Place Market,No,Yes,No
+93,,(415) 233-9966,94122,CA,San Francisco,1224 9th Avenue,No,Yes,Yes
+609,,(212) 777-2410,10010,NY,New York,2 Lexington Avenue,No,No,No
+98,,(312) 850-5005,60661,IL,Chicago,702 W Fulton Market,No,Yes,Yes
+611,,(773) 935-6696,60657,IL,Chicago,3411 North Halsted Street,No,Yes,unknown
+101,,(212) 777-2500,10012,NY,New York,6 Bond Street,No,No,No
+103,,(773) 252-7636,60647,IL,Chicago,1949 N. Hoyne Avenue,No,No,No
+617,,"(312) 967-9358,(773) 832-9999",60614,IL,Chicago,2701 N Halsted Street,No,Yes,Yes
+622,,(718) 858-4086,11231,NY,Brooklyn,575 Henry Street,No,Yes,No
+872,,(415) 362-6421,94133,CA,San Francisco,1701 Stockton Street,No,No,No
+626,,(347) 987-3747,11222,NY,Brooklyn,60 Greenpoint Avenue,No,No,No
+531,,(415) 861-6224,94103,CA,San Francisco,1600 Folsom Street,,Yes,No
+116,,(312) 595-1322,60654,IL,Chicago,51 West Kinzie Street,No,Yes,Yes
+118,,(312) 202-0001,60611,IL,Chicago,676 N Saint Clair St,No,unknown,No
+819,,(415) 861-5555,94102,CA,San Francisco,300 Grove Street,No,No,No
+632,,(415) 292-6916,94109,CA,San Francisco,1754 Polk Street,No,No,No
+121,,(415) 282-1500,94110,CA,San Francisco,2901 Mission District Street,No,Yes,unknown
+125,,(212) 497-8090,10011,NY,New York,85 10th Avenue,No,No,No
+638,,(773) 245-3287,60622,IL,Chicago,2258 W. Chicago Avenue,Yes,Yes,Yes
+127,,(312) 379-5637,60611,IL,Chicago,60 E Grand Avenue,Yes,Yes,No
+129,,(415) 986-2914,94133,CA,San Francisco,446 Columbus Avenue,No,unknown,No
+643,,(415) 409-6120,94109,CA,San Francisco,708 Post Street,No,Yes,No
+1006,,(312) 787-7599,60654,IL,Chicago,720 N. State Street,No,unknown,Yes
+134,,(773) 227-8180,60647,IL,Chicago,2115 N Milwaukee Avenue,No,Yes,unknown
+649,,(773) 248-2570,60614,IL,Chicago,2121 N Clark Street,No,Yes,No
+141,,(773) 661-9170,60647,IL,Chicago,2957 W Diversey Avenue,No,unknown,unknown
+654,,(206) 633-0212,98103,WA,Seattle,1400 N 45th Street,No,Yes,No
+143,,(206) 374-8717,98121,WA,Seattle,2230 1st Avenue,No,Yes,No
+656,,(312) 243-8908,60607,IL,Chicago,1339 W. Taylor Street,No,Yes,No
+658,,(212) 274-0505,10012,NY,New York,210 Spring Street,No,Yes,Yes
+789,,(773) 489-8480,60622,IL,Chicago,1484 N Milwaukee Avenue,,Yes,Yes
+661,,(415) 564-5332,94117,CA,San Francisco,941 Cole Street,No,Yes,Yes
+150,,(212) 689-1090,10010,NY,New York,378 Park Avenue S,No,No,No
+663,,(312) 284-1377,60654,IL,Chicago,519 North Clark Street,No,Yes,Yes
+664,,(415) 474-2000,94109,CA,San Francisco,2400 Polk Street,No,No,No
+153,,(415) 292-4888,94133,CA,San Francisco,1323 Columbus Avenue,No,Yes,Yes
+666,,(206) 467-5300,98109,WA,Seattle,429 Westlake Avenue North,No,Yes,Yes
+155,,(646) 602-6263,10002,NY,New York,4 Clinton Street,Yes,Yes,No
+156,,(212) 941-1541,10013,NY,New York,198 Grand Street,Yes,Yes,No
+157,,(212) 255-3590,10014,NY,New York,42 Grove Street,No,No,unknown
+160,,(212) 473-0220,10009,NY,New York,128 E 7th Street,No,Yes,No
+674,,(773) 661-2468,60622,IL,Chicago,1462 N. Milwaukee Avenue,No,Yes,Yes
+678,,(773) 489-1747,60647,IL,Chicago,1747 N Damen Avenue,No,Yes,No
+167,,(415) 920-1978,94110,CA,San Francisco,2760 24th Street,No,Yes,unknown
+169,,(206) 323-1544,98122,WA,Seattle,1115 12th Avenue,No,unknown,unknown
+171,,(312) 836-5933,60654,IL,Chicago,419 North Clark Street,No,Yes,Yes
+685,,(415) 673-4656,94123,CA,San Francisco,1602 Lombard Street,No,Yes,No
+687,,(415) 921-2956,94115,CA,San Francisco,2210 Fillmore Street,Yes,Yes,Yes
+690,,(415) 865-9523,94103,CA,San Francisco,3141 16th Street,No,unknown,Yes
+179,,(312) 981-7070,60614,IL,Chicago,1800 N Lincoln Avenue,No,unknown,Yes
+181,,(415) 359-1212,94109,CA,San Francisco,1760 Polk Street,No,No,No
+696,,"(415) 386-3896,(415) 386-3895",94118,CA,San Francisco,4348 California Street,No,Yes,No
+1063,,(415) 928-2080,94109,CA,San Francisco,624 Post Street,No,No,No
+187,,(212) 505-7777,10011,NY,New York,64 W 10th Street,No,No,No
+700,,(415) 552-4055,94110,CA,San Francisco,3621 18th Street,No,Yes,unknown
+995,,(212) 889-0905,10010,NY,New York,11 Madison Avenue,No,No,No
+704,,(206) 323-9922,98122,WA,Seattle,1416 East Olive Way,No,unknown,No
+193,,(773) 281-9101,60614,IL,Chicago,340 W Armitage Avenue,,Yes,No
+194,,(212) 462-4682,10014,NY,New York,281 Bleecker Street,No,unknown,No
+707,,(212) 539-1776,10011,NY,New York,75 Washington Place,No,No,No
+197,,"(415) 655-9542,(415) 824-7166",94107,CA,San Francisco,1401 18th Street,No,Yes,Yes
+201,,(206) 622-2631,98104,WA,Seattle,304 6th Avenue South,No,Yes,No
+204,,"(773) 348-7255,(773) 348-4877",60614,IL,Chicago,2546 N Clark Street,,Yes,No
+546,,(773) 697-7069,60642,IL,Chicago,1664 N Ada Street,No,No,Yes
+208,,(212) 387-8487,10009,NY,New York,93 E 7th Street,,Yes,No
+722,,(646) 476-8882,10014,NY,New York,264 Bleecker Street,No,Yes,No
+212,,(206) 441-3669,98101,WA,Seattle,Pike Place Market,,Yes,No
+1081,,(312) 222-1306,60654,IL,Chicago,406 North Wells Street,No,Yes,No
+1064,,(212) 243-2757,10011,NY,New York,132 W 23rd Street,,Yes,No
+216,,"(212) 500-0831,(212) 203-8095",10003,NY,New York,8 Extra Place,No,No,No
+729,,(415) 864-6981,94117,CA,San Francisco,1451 Haight Street,No,Yes,No
+219,,(415) 648-5895,94114,CA,San Francisco,1351 Church Street,No,No,No
+991,,(415) 664-5555,94122,CA,San Francisco,511 Irving Street,No,unknown,No
+735,,(415) 861-2682,94114,CA,San Francisco,708 14th Street,No,unknown,No
+720,,(212) 989-6699,10011,NY,New York,75 9th Avenue,No,No,No
+231,,(212) 691-0555,10014,NY,New York,355 W 14th Street,No,unknown,Yes
+747,,(312) 477-7652,60654,IL,Chicago,456 North Clark Street,No,Yes,Yes
+236,,(773) 342-1414,60622,IL,Chicago,1414 N Milwaukee Avenue,Yes,Yes,No
+238,,(312) 867-0110,60614,IL,Chicago,1723 N. Halsted Street,No,No,No
+753,,(206) 954-1100,98103,WA,Seattle,3620 Stone Way N,No,Yes,Yes
+754,,(773) 525-4580,60657,IL,Chicago,3463 N. Clark Street,Yes,Yes,No
+244,,(415) 682-4875,94118,CA,San Francisco,211 Clement Street,No,No,No
+757,,(773) 327-1512,60614,IL,Chicago,2207 N Clybourn Avenue,Yes,Yes,No
+760,,(212) 674-1234,10012,NY,New York,128 Macdougal Street,,Yes,No
+249,,(773) 252-1414,60647,IL,Chicago,1912 N Western Avenue,,Yes,No
+763,,(206) 352-3773,98109,WA,Seattle,1507 Queen Anne Avenue N,No,Yes,unknown
+252,,(415) 750-9787,94118,CA,San Francisco,126 Clement Street,No,No,No
+253,,(212) 254-2246,10002,NY,New York,205 East Houston Street,,Yes,No
+766,,(415) 567-4031,94102,CA,San Francisco,375 Taylor Street,No,Yes,No
+256,,(415) 471-2999,94110,CA,San Francisco,3010 20th Street,No,No,No
+260,,(206) 709-1900,98112,WA,Seattle,332 15th Avenue East,No,Yes,No
+266,,(312) 372-4243,60603,IL,Chicago,24 S Michigan Avenue,No,Yes,Yes
+269,,(415) 550-8627,94110,CA,San Francisco,3431 19th Street,No,Yes,unknown
+783,,(415) 487-1600,94110,CA,San Francisco,561 Valencia Street,No,No,No
+784,,(206) 624-1756,98101,WA,Seattle,Pike Place Market,No,No,Yes
+274,,(415) 487-2600,94110,CA,San Francisco,600 Guerrero Street,No,Yes,unknown
+691,,(415) 553-3986,94102,CA,San Francisco,205 Oak Street,No,Yes,No
+792,,(415) 252-9560,94110,CA,San Francisco,2288 Mission District Street,No,Yes,No
+281,,(312) 255-0088,60611,IL,Chicago,937 N Rush Street,No,Yes,Yes
+798,,(773) 489-0690,60622,IL,Chicago,1470 N Milwaukee Avenue,No,Yes,No
+288,,(415) 800-7466,94109,CA,San Francisco,1500 California Street,No,Yes,Yes
+290,,(415) 563-8841,94115,CA,San Francisco,347 Presidio Avenue,No,Yes,No
+879,,(312) 454-0748,60661,IL,Chicago,301 S Halsted Street,No,Yes,No
+292,,(773) 252-1466,60622,IL,Chicago,1466 N. Ashland Avenue,No,unknown,No
+293,,(206) 283-5900,98119,WA,Seattle,615 West McGraw Street,No,Yes,unknown
+296,,"(312) 202-9141,(312) 202-4191",60611,IL,Chicago,46 E Superior Street,,Yes,Yes
+977,,(312) 329-6500,60654,IL,Chicago,68 West Hubbard Street,,Yes,Yes
+812,,(415) 552-8999,94103,CA,San Francisco,1175 Folsom Street,No,Yes,No
+818,,(773) 348-8886,60614,IL,Chicago,2300 N. Lincoln Park West,,Yes,Yes
+306,,(312) 335-5454,60610,IL,Chicago,900 N. Franklin Street,No,unknown,Yes
+307,,(206) 328-8226,98126,WA,Seattle,1660 Harbor Avenue,No,Yes,Yes
+820,,(212) 786-2068,10003,NY,New York,81 Saint Marks Place,No,Yes,No
+824,,(206) 325-0807,98122,WA,Seattle,1525 10th Avenue,No,unknown,Yes
+315,,(312) 482-9179,60610,IL,Chicago,868 N. Franklin Street,No,No,unknown
+829,,(212) 299-3900,10023,NY,New York,1 Central Park West,No,No,No
+830,,(415) 441-1040,94133,CA,San Francisco,545 Francisco Street,No,unknown,No
+320,,(312) 782-9855,60661,IL,Chicago,200 S Halsted Street,No,Yes,Yes
+1034,,(415) 440-4293,94133,CA,San Francisco,943 Columbus Avenue,No,Yes,unknown
+1078,,(415) 643-5893,94131,CA,San Francisco,1700 Church Street,No,unknown,No
+327,,(206) 432-9069,98109,WA,Seattle,601 Queen Anne Avenue N,No,unknown,No
+840,,(312) 642-7917,60611,IL,Chicago,22 E. Bellevue Place,No,Yes,unknown
+329,,(212) 674-8685,10012,NY,New York,119 MacDougal Street,No,Yes,Yes
+842,,(312) 939-2855,60607,IL,Chicago,1141 S Jefferson Street,,Yes,No
+332,,(415) 255-8800,94103,CA,San Francisco,1725 Alameda Street,No,unknown,Yes
+334,,(718) 387-7400,11211,NY,Brooklyn,178 Broadway,No,No,No
+847,,(415) 550-6971,94111,CA,San Francisco,Ferry Building,No,unknown,No
+336,,(415) 642-5958,94110,CA,San Francisco,2976 Mission District Street,No,Yes,No
+338,,(206) 859-4155,98102,WA,Seattle,121 E Boston Street,No,unknown,Yes
+339,,(312) 789-4600,60614,IL,Chicago,938 W Webster Avenue,,Yes,Yes
+342,,(212) 226-1444,10013,NY,New York,77 Worth Street,No,No,No
+343,,(212) 343-0404,10012,NY,New York,119 Sullivan Street,No,Yes,No
+881,,(212) 989-8883,10011,NY,New York,88 10th Avenue,,unknown,No
+864,,(415) 928-1406,94109,CA,San Francisco,1901 Hyde Street,No,unknown,No
+865,,(212) 529-5945,10012,NY,New York,129 Macdougal Street,No,unknown,Yes
+354,,(718) 596-6700,11201,NY,Brooklyn,19 Old Fulton Street,No,Yes,unknown
+867,,(212) 260-1212,10012,NY,New York,140 W 4th Street,Yes,Yes,No
+358,,(773) 395-2483,60622,IL,Chicago,1039 N Western Avenue,No,Yes,No
+360,,(312) 649-6717,60611,IL,Chicago,1100 E Walton Street Walton Colonnade,No,Yes,Yes
+1084,,(212) 473-7447,10003,NY,New York,211-13 1st Avenue,Yes,Yes,No
+874,,(312) 733-9555,60607,IL,Chicago,837 W Fulton Market,No,No,Yes
+364,,(773) 360-8686,60657,IL,Chicago,2954 N Sheffield Avenue,No,Yes,No
+878,,(212) 366-1182,10014,NY,New York,7 Carmine Street,Yes,Yes,No
+573,,(773) 360-8406,60618,IL,Chicago,4300 N Lincoln Avenue,No,Yes,Yes
+369,,(212) 982-8895,10002,NY,New York,84 Stanton Street,,unknown,Yes
+373,,"(628) 400-5744,(414) 400-5453",94103,CA,San Francisco,401 Valencia Street,Yes,Yes,No
+376,,(312) 243-1535,60622,IL,Chicago,1829 W. Chicago Avenue,Yes,Yes,No
+891,,(773) 525-2695,60614,IL,Chicago,2434 N Clark Street,Yes,Yes,No
+893,,(415) 757-0155,94111,CA,San Francisco,584 Washington Street,No,No,No
+382,,(212) 343-4255,10012,NY,New York,171 Spring Street,,Yes,No
+832,,(415) 795-1272,94115,CA,San Francisco,1529 Fillmore Street,No,unknown,No
+387,,(212) 613-8660,10018,NY,New York,400 2nd Floor 5th Avenue,No,No,No
+1056,,(212) 243-1680,10014,NY,New York,278 Bleecker Street,No,Yes,No
+902,,(773) 248-1400,60614,IL,Chicago,1966 N. Halsted Street,No,Yes,No
+391,,(206) 395-2069,98144,WA,Seattle,3057 Beacon Avenue South,No,Yes,unknown
+392,,(206) 770-9000,98101,WA,Seattle,1940 Westlake Avenue,No,Yes,Yes
+394,,(212) 777-1447,10003,NY,New York,41 St Marks Place,No,Yes,Yes
+395,,(212) 505-3700,10002,NY,New York,379 Grand Street,No,Yes,unknown
+1053,,(212) 228-2894,10009,NY,New York,26 1st Avenue,No,Yes,unknown
+909,,(415) 355-1500,94110,CA,San Francisco,2224 Mission District Street,No,No,No
+401,,(312) 642-8450,60654,IL,Chicago,620 N State Street,Yes,Yes,Yes
+914,,(415) 242-0200,94117,CA,San Francisco,848 Cole Street,No,Yes,Yes
+405,,(415) 252-5917,94117,CA,San Francisco,1430 Haight Street,No,Yes,No
+918,,(415) 440-8344,94109,CA,San Francisco,710 Polk Street,No,Yes,No
+407,,(312) 955-0439,60654,IL,Chicago,11 W Illinois Street,No,unknown,No
+408,,(415) 821-7569,94107,CA,San Francisco,1299 18th Street,No,Yes,Yes
+409,,(773) 604-8769,60618,IL,Chicago,2900 W Belmont Avenue,No,Yes,Yes
+924,,(212) 228-8030,10003,NY,New York,230 E 9th Street,No,Yes,No
+866,,(415) 440-1700,94115,CA,San Francisco,2821 California Street,No,unknown,Yes
+415,,"(415) 345-1953,(415) 252-0800",94117,CA,San Francisco,736 Divisadero Street,No,Yes,Yes
+930,,(415) 566-3117,94122,CA,San Francisco,1331 9th Avenue,No,Yes,unknown
+419,,(312) 321-2725,60654,IL,Chicago,431 N Dearborn Street,No,Yes,No
+932,,(415) 437-6851,94117,CA,San Francisco,545 Haight Street,,unknown,No
+1094,,(212) 741-4695,10014,NY,New York,90 Bedford Street,No,unknown,No
+423,,(212) 741-6699,10014,NY,New York,13 Barrow Street,No,No,No
+425,,(206) 441-1000,98121,WA,Seattle,2226 1st Avenue,No,No,Yes
+1095,,(206) 436-0390,98121,WA,Seattle,2010 Western Avenue,No,Yes,Yes
+1037,,(415) 666-0822,94117,CA,San Francisco,1725 Haight Street,No,No,No
+943,,(415) 683-1346,94110,CA,San Francisco,2211 Mission District Street,No,Yes,Yes
+946,,(312) 888-3455,60607,IL,Chicago,820 W Randolph Street,No,Yes,Yes
+947,,(212) 674-5870,10003,NY,New York,96 2nd Avenue,No,No,Yes
+436,,(206) 436-0050,98109,WA,Seattle,401 Westlake Avenue N,No,Yes,No
+438,,(206) 282-4830,98121,WA,Seattle,407 Cedar Street,No,Yes,No
+953,,(212) 243-6230,10001,NY,New York,124 W 25th Street,Yes,Yes,No
+442,,(415) 775-1550,94109,CA,San Francisco,1550 Hyde Street,No,No,No
+927,,(415) 387-2147,94118,CA,San Francisco,309 Clement Street,No,Yes,No
+962,,(206) 285-1000,98199,WA,Seattle,2601 West Marina Place,No,unknown,Yes
+964,,(212) 925-3797,10013,NY,New York,377 Greenwich Street,No,unknown,Yes
+454,,"(212) 924-2223,(212) 924-2223 (212) 924-2201",10011,NY,New York,246 W 18th Street,Yes,Yes,Yes
+967,,"(510) 653-3394,(415) 495-3394",94103,CA,San Francisco,66 Mint Street,No,Yes,unknown
+456,,(773) 342-1742,60622,IL,Chicago,1742 W. Division Street,Yes,Yes,Yes
+457,,(415) 398-3181,94133,CA,San Francisco,552 Green Street,No,Yes,Yes
+972,,(773) 477-5845,60614,IL,Chicago,2610 N. Cannon Drive,No,unknown,No
+974,,(212) 924-2824,10001,NY,New York,286 8th Avenue,Yes,Yes,No
+463,,(415) 525-4905,94114,CA,San Francisco,3499 16th Street,Yes,Yes,Yes
+976,,(212) 752-1495,10022,NY,New York,3 E 52nd Street,No,unknown,No
+465,,(206) 467-7797,98104,WA,Seattle,411 1st Avenue South,No,Yes,Yes
+979,,(415) 391-8311,94108,CA,San Francisco,708 Bush Street,No,No,No
+980,,(415) 821-4608,94110,CA,San Francisco,2814 19th Street,No,Yes,Yes
+851,,(773) 384-9546,60647,IL,Chicago,2311 W North Avenue,No,Yes,Yes
+988,,(212) 979-1012,10003,NY,New York,239 E 5th Street,No,No,No
+800,,(206) 782-8722,98107,WA,Seattle,5431 Ballard Avenue NW,No,Yes,Yes
+848,,(415) 242-0828,94122,CA,San Francisco,1031 Irving Street,,Yes,No
+482,,(773) 935-6828,60614,IL,Chicago,2534 N. Clark Street,Yes,Yes,No
+483,,(415) 474-5698,94102,CA,San Francisco,560 Larkin Street,No,Yes,No
+996,,(212) 673-7200,10009,NY,New York,126 East 7th Street,,Yes,Yes
+487,,(312) 640-0999,60611,IL,Chicago,1024 N Rush Street,No,Yes,Yes
+1001,,(312) 559-9000,60661,IL,Chicago,306 S Halsted Street,No,Yes,No
+490,,(415) 824-7877,94110,CA,San Francisco,2779 Mission District Street,No,Yes,No
+1004,,(206) 389-7099,98104,WA,Seattle,418 Maynard Avenue S,No,Yes,No
+494,,(773) 772-4422,60622,IL,Chicago,1927 W North Avenue,Yes,Yes,No
+499,,(206) 382-9963,98109,WA,Seattle,901 Fairview Avenue North,No,Yes,Yes
+501,,(206) 325-2111,98112,WA,Seattle,615 19th Avenue E,,Yes,Yes
+1014,,(212) 947-3636,10018,NY,New York,72 W 36th Street,No,Yes,No
+1015,,(312) 644-3524,60611,IL,Chicago,535 N Michigan Avenue,No,Yes,No
+504,,(773) 880-7372,60657,IL,Chicago,2951 North Broadway Street,No,Yes,Yes
+506,,(212) 741-1207,10014,NY,New York,649 Washington Street,No,unknown,Yes
