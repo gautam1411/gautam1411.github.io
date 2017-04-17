@@ -1,4 +1,4 @@
-id,Name,Phone,Zipcode,State,City,Address,Delivery,Takeout,Outdoor_seating
+id,Name,Phone Number,Zipcode,State,City,Address,Has Delivery,Has Takeout,Outdoor_seating
 1,Nini’s Deli,(312) 243-9822,60642,IL,Chicago,543 N Noble St,0,1,1
 2,Garfield Park Conservatory,(312) 746-5100,60624,IL,Chicago,300 N Central Park,0,0,0
 3,The Tamale Guy,,60622,IL,Chicago,Chicago,1,1,0

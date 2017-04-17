@@ -1,4 +1,4 @@
-id,Restaurant Name,Phone,Zipcode,State,City,Address,Delivery,Takeout,Outdoor seating
+id,Restaurant Name,Contact Number,Zipcode,State,City,Address,Delivery,Takeout,Outdoor seating
 1,Alinea,(312) 867-0110,60614,IL,Chicago,1723 N. Halsted Street,0,0,0
 2,Signature Room at the 95th,(312) 787-9596,60611,IL,Chicago,875 N Michigan Avenue,0,0,0
 3,Girl & the Goat,(312) 492-6262,60607,IL,Chicago,809 W Randolph Street,0,0,1
