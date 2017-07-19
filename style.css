@@ -1,5 +1,5 @@
 body{
-    background-color: #EEE;
+    background-color: #87CEFA;
 }
 
 
@@ -7,4 +7,11 @@ body{
     background-color: #66CCFF;
     color: white;
     text-align: center;
+}
+
+#wrapper-masterhead{
+	background-color: white;
+ 	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
 }
