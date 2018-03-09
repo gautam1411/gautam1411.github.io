@@ -1,0 +1,1 @@
+3.9,"The restaurant's <n>atmospheric</n> is definitely <n>inviting</n> and it helps that the staff are so friendly and helpful. The menu has a wide variety of food and <p>chilled beverages</p>.,",Rocks Lakeview,Chicago
